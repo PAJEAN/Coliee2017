@@ -4,6 +4,7 @@
 import glob
 import numpy as np
 import boite_a_outils as bao
+from gensim.models import word2vec
 
 ###### Description ###
 ###
@@ -73,6 +74,49 @@ with bao.TSV_parser(result_articles_path) as tsv_parser_articles:
 obj_tf_idf = bao.Tf_idf(corpus)
 obj_tf_idf.corpus_processing()
 
+# Dictionnnaire Word2Vec.
+model = word2vec.Word2Vec.load("text8.model")
+
+def build_set_similarity(model, corpus, queries):
+	vocabulary = set()
+	for id_query in queries:
+		termes = set(obj_tf_idf.normalisation(queries[id_query]))
+		vocabulary = vocabulary.union(termes)
+		
+	for id_article in corpus:
+		termes = set(obj_tf_idf.normalisation(corpus[id_article]))
+		vocabulary = vocabulary.union(termes)
+	
+	similarity = {}
+	for v in vocabulary:
+		if v in model:
+			set_tmp = set()
+			for word in model.most_similar(positive=[v]):
+				set_tmp.add(word[0])
+			similarity[v] = set_tmp
+	return(similarity)
+
+def intersection_similarity(terms1, terms2, similarity):
+	terms_selected = set()
+	for t1 in terms1:
+		l1 = set([t1])
+		if t1 in similarity:
+			l1 = l1.union(similarity[t1])
+			
+		for t2 in terms2:
+			l2 = set([t2])
+			if t2 in similarity:
+				l2 = l2.union(similarity[t2])
+			
+			if len(l1.intersection(l2)) > 0:
+				terms_selected.add(t2)
+				if t1 != t2:
+					print("t"+t1+" = "+t2)
+	return(terms_selected)
+
+similarity = build_set_similarity(model, corpus, queries)
+print("Similarity done!")
+
 for id_query in queries:
 	print("Query: "+id_query)
 	termes = set(obj_tf_idf.normalisation(queries[id_query]))
@@ -97,7 +141,8 @@ for id_query in queries:
 			
 		
 		# TF-IDF.
-		t_intersection = termes.intersection(termes_art)
+		#t_intersection = termes.intersection(termes_art)
+		t_intersection = intersection_similarity(termes, termes_art, similarity)
 		if len(t_intersection) > 0:
 			for t in t_intersection:
 				tf_art.append(obj_tf_idf.tf[id_article][t])
