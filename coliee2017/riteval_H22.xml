@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>	
+<pair id="H22-1-A" label="Y">
+<t1>
+<article id="5"/>
+</t1>
+<t2>
+A minor can freely dispose of assets the statutory agent permits the disposition without specifying the purpose.
+</t2>
+</pair>
+<pair id="H22-1-I" label="N">
+<t1>
+<article id="98-2"/>
+</t1>
+<t2>
+If the other party of a manifestation of intention was a minor when the manifestation of intention was received, that manifestation of intention does not take effect.
+</t2>
+</pair>
+
+<pair id="H22-3-A" label="N">
+<t1>
+<article id="96"/>
+</t1>
+<t2>
+In cases where a person who has consented to the sale of real property due to duress of a third party, and the other party does not know of the duress, the person cannot rescind the consent.
+</t2>
+</pair>
+<pair id="H22-3-E" label="N">
+<t1>
+<article id="124"/>
+<article id="125"/>
+</t1>
+<t2>
+Even when a person, who carries a purchase-money obligation due to the sale of real property, while a minor pays the purchase money after becoming an adult, the person can rescind the sale with the reason of being a minor at the time of the sale.
+</t2>
+</pair>
+
+<pair id="H22-4-A" label="N">
+<t1>
+<article id="20"/>
+</t1>
+<t2>
+For a contract executed by a person under curatorship, although the other party issue a notice to the person under curatorship which demands, by establishing a certain period which is one month or more, that he/she should obtain the ratification of his/her curator , the person under curatorship fails to issue, within the applicable period, from that point on, that other party cannot rescind the contract for the reason that the contract was executed by the person under curatorship.
+</t2>
+</pair>
+<pair id="H22-4-I" label="Y">
+<t1>
+<article id="556"/>
+</t1>
+<t2>
+If no period is provided in relation to the manifestation of intention for a completion in a pre-contract to sell or purchase, regardless of whether or not the party to the pre contract issued a notice of demand to the other party, specifying a reasonable period, for the other party is to give a definite answer as to whether or not he or she would complete the sale, if no definite answer has been given, the party to the pre contract cannot demand execution of the contract of sale to the other party.
+</t2>
+</pair>
+
+<pair id="H22-4-E" label="N">
+<t1>
+<article id="114"/>
+</t1>
+<t2>
+For a contract completed by an unauthorized agent, regardless of the fact that the counterparty requires the principal, by fixing a reasonable period of time, to make a definite answer on whether or not he/she will ratify within such period of time , if no definite answer has been given, the other party can demand execution of the contract to the principal.
+</t2>
+</pair>
+<pair id="H22-5-I" label="N">
+<t1>
+<article id="506"/>
+</t1>
+<t2>
+A time limit can be added to the manifestation of intention of offset, but conditions cannot be added.
+</t2>
+</pair>
+<pair id="H22-5-U" label="Y">
+<t1>
+<article id="137"/>
+</t1>
+<t2>
+In cases where the obligor of monetary debt has the obligation to provide security, if the security is not provided, the obligor cannot assert the benefit of the time.
+</t2>
+</pair>
+<pair id="H22-5-O" label="Y">
+<t1>
+<article id="134"/>
+</t1>
+<t2>
+A juristic act which is subject to a condition precedent is void if the condition is dependent on  the willof the obligor.
+</t2>
+</pair>
+<pair id="H22-8-I" label="N">
+<t1>
+<article id="233"/>
+</t1>
+<t2>
+When a tree or bamboo branch from neighboring land cross a boundary line, the person can remove the branch him or herself, but cannot have the owner of that tree or bamboosever the branch.
+</t2>
+</pair>
+<pair id="H22-9-I" label="Y">
+<t1>
+<article id="243"/>
+</t1>
+<t2>
+If two or more movables with different owners are so joined to each other that they can no longer be separated without damaging the same, ownership of the composite Thing shall vest in the owner of the principal movables.
+</t2>
+</pair>
+<pair id="H22-9-O" label="N">
+<t1>
+<article id="244"/>
+</t1>
+<t2>
+If the distinction of principal and accessory cannot be made between the joined movables, based on a demand by one or several owners of each of the movables, the owners shall be determined by court.
+</t2>
+</pair>
+<pair id="H22-10-O" label="N">
+<t1>
+<article id="292"/>
+</t1>
+<t2>
+Even if there is an interruption of prescription in favor of one co-owner of dominant land, due to factors of the other co-owners, such extinctive prescription proceeds.
+</t2>
+</pair>
+<pair id="H22-11-1" label="Y">
+<t1>
+<article id="348"/>
+</t1>
+<t2>
+A pledgee can sub-pledge a Thing pledged without the approval of the owner of the Thing pledged.
+</t2>
+</pair>
+<pair id="H22-11-2" label="N">
+<t1>
+<article id="355"/>
+</t1>
+<t2>
+Pledges on movable property do not take effect if there is no delivery, and thus, for that movable, multiple pledges cannot be created.
+</t2>
+</pair>
+
+<pair id="H22-11-5" label="N">
+<t1>
+<article id="353"/>
+</t1>
+<t2>
+If the possession of the pledgee of a pledge on movable property is stolen by a third party, the pledgee can demand the return based on the pledge.
+</t2>
+</pair>
+
+<pair id="H22-14-A" label="N">
+<t1>
+<article id="400"/>
+</t1>
+<t2>
+The obligor of a claim whose subject is the delivery of  any specified things carries the duty to preserve that thing until the delivery is performed with the same  care  he/she would exercise over his/her own property.
+</t2>
+</pair>
+<pair id="H22-14-I" label="Y">
+<t1>
+<article id="403"/>
+</t1>
+<t2>
+Even if the amount of the claim was specified in the currency of a foreign state, the obligor can make the payment in the legal currency of Japan instead of currency of the foreign state.
+</t2>
+</pair>
+<pair id="H22-14-E" label="N">
+<t1>
+<article id="406"/>
+</t1>
+<t2>
+If the subject of the claim is to be identified by way of choice among more than one performance, the right to make the choice shall vest in the obligor as long as there is no special provision.
+</t2>
+</pair>
+<pair id="H22-14-O" label="Y">
+<t1>
+<article id="410"/>
+</t1>
+<t2>
+If the subject of the claim is to be identified by way of choice among two performances, if one of the performances becomes impossible in the future not due to fault of persons involved that do not possess the right to choose, then the subject of the claim is identified  as the other performance.
+</t2>
+</pair>
+<pair id="H22-15-A" label="N">
+<t1>
+<article id="91"/>
+</t1>
+<t2>
+In cases where an obligor does not perform an obligation, the agreement of the parties involved that the obligee
+</t2>
+</pair>
+<pair id="H22-15-U" label="Y">
+<t1>
+<article id="677"/>
+</t1>
+<t2>
+An obligor of a partnership cannot set off his/her obligation against his/her claim against the partners.
+</t2>
+</pair>
+<pair id="H22-17-4" label="Y">
+<t1>
+<article id="650"/>
+</t1>
+<t2>
+If the mandatary suffer any loss due to the administration of the mandated business s without negligence in the mandatary, he/she can claimcompensation for the loss from the mandator.
+</t2>
+</pair>
+<pair id="H22-18-I" label="Y">
+<t1>
+<article id="465-2"/>
+</t1>
+<t2>
+In a revolving guarantee contract on loans, even if the principal determination date is determined, if the maximum amount is not stipulated, it shall not be effective.
+</t2>
+</pair>
+<pair id="H22-19-A" label="Y">
+<t1>
+<article id="612"/>
+</t1>
+<t2>
+A lessor who cancels a lease contract for reasons of unauthorized subleasing, and demands the lessee to return the subject matter is not required to demonstrate proof that he/she did not consent to the sublease.
+</t2>
+</pair>
+<pair id="H22-19-O" label="Y">
+<t1>
+<article id="467"/>
+</t1>
+<t2>
+If the assignee of a claim demands the obligor to execute the assignment of the claim, in order for the obligor to refuse this, he/she is not required to demonstrate proof that there was no notification or consent regarding the claim assignment.
+</t2>
+</pair>
+<pair id="H22-21-2" label="Y">
+<t1>
+<article id="493"/>
+</t1>
+<t2>
+Even if the obligor of a monetary debt brings cash to the address of the obligee and demands acceptance, in cases where the obligee refuses to accept, even if the cash is not presented in front of the obligee, the provision is deemed as actual.
+</t2>
+</pair>
+<pair id="H22-21-4" label="Y">
+<t1>
+<article id="492"/>
+</t1>
+<t2>
+In cases where the obligor of a monetary debt provides actual performance on the time of performance, but the obligee refuses to accept the performance, the obligor does not carry the duty to pay delinquent charges after the provision.
+</t2>
+</pair>
+<pair id="H22-22-2" label="Y">
+<t1>
+<article id="551"/>
+</t1>
+<t2>
+In cases where a gift of the specified thing is made without the donee bearing the responsibility, if the donor made the gift without knowing that the subject matter has a defect, the donor shall not assume a warranty for the defect.
+</t2>
+</pair>
+
+<pair id="H22-23-A" label="N">
+<t1>
+<article id="608"/>
+</t1>
+<t2>
+In cases where a lessee has defrayed necessary expenses with respect to the leased Thing in order to preserve the condition appropriate for profit from ordinary use of the subject, the lessee can wait for the end of the lease and demand the reimbursement of the same from the lessor.
+</t2>
+</pair>
+<pair id="H22-23-E" label="N">
+<t1>
+<article id="617"/>
+</t1>
+<t2>
+A lease without a specified term can be requested to be terminated at any time, and doing this will terminate the lease immediately.
+</t2>
+</pair>
+<pair id="H22-23-O" label="Y">
+<t1>
+<article id="613"/>
+</t1>
+<t2>
+In cases where the lessee of a movable has obtained the consent from the lessor who is the owner to sublease the movable to a sub-lesseef, when the term of the lease between the lessee and the lessor finishes, and the lease is not renewed, the lessor can demand the sub-lessee to return the subject based on ownership.
+</t2>
+</pair>
+<pair id="H22-25-3" label="Y">
+<t1>
+<article id="533"/>
+<article id="634"/>
+</t1>
+<t2>
+In cases where the contractor demands the party ordering work to provide remuneration, if there is any defect in the subject matter of work performed, and the party ordering work demands that the contractor repair the defect, the party ordering work can refuse to pay remuneration.
+</t2>
+</pair>
+<pair id="H22-26-A" label="N">
+<t1>
+<article id="648"/>
+</t1>
+<t2>
+Even in cases where consent has been reached between a mandator and a mandatary for the payment of remuneration, if the mandatary cancels the contract of mandate in the middle of performance of the mandated business, the mandatary cannot demand payment of remuneration.
+</t2>
+</pair>
+<pair id="H22-26-I" label="Y">
+<t1>
+<article id="650"/>
+</t1>
+<t2>
+If the mandatary has incurred costs found to be necessary for the administration of the mandated business, the mandatary can claim the  reimbursement of those costs from the mandator and any interest on the same from the day the costs were incurred.
+</t2>
+</pair>
+<pair id="H22-26-U" label="N">
+<t1>
+<article id="646"/>
+</t1>
+<t2>
+If the  mandatary,  received monies and other Things during the course of administrating the mandated bushiness, the mandatary must immediately deliver them to the mandator.
+</t2>
+</pair>
+<pair id="H22-26-E" label="Y">
+<t1>
+<article id="650"/>
+</t1>
+<t2>
+Even in cases where costs, incurred by a mandatary in order to administrate the  mandated business with the care of a good manager, are later deemed as a result not to be necessary, the mandatary can demand reimbursement of those fees to the mandator.
+</t2>
+</pair>
+<pair id="H22-27-1" label="N">
+<t1>
+<article id="555"/>
+</t1>
+<t2>
+In a lawsuit demanding the payment of purchase money based on a contract of sale of real property, proof must be demonstrated with objects of the claim of the conclusion of the contract of the sale and the determination of the time of performance of the monetary claim.
+</t2>
+</pair>
+<pair id="H22-27-2" label="N">
+<t1>
+<article id="555"/>
+</t1>
+<t2>
+In a lawsuit demanding the delivery of a subject matter based on a contract of sale of real property, proof must be demonstrated with objects of the claim that the contract of sale was concluded and the ownership of the subject matter was attributed to the seller at the time of the conclusion of the contract.
+</t2>
+</pair>
+<pair id="H22-27-3" label="Y">
+<t1>
+<article id="617"/>
+<article id="618"/>
+<article id="619"/>
+</t1>
+<t2>
+In a lawsuit demanding the return of a subject matter based on the completion of a lease contract of movables, proof must be demonstrated with objects of the claim of the conclusion of the lease contract, the delivery of the subject matter based on the contract, and the facts that prove the completion of the lease contract.
+</t2>
+</pair>
+<pair id="H22-27-4" label="N">
+<t1>
+<article id="649"/>
+</t1>
+<t2>
+In a lawsuit demanding the advance payment of costs by a mandatary based on the contract of mandate, proof must be demonstrated with objects of the claim of the conclusion of the contract of mandate and the determination of remuneration.
+</t2>
+</pair>
+<pair id="H22-27-5" label="N">
+<t1>
+<article id="632"/>
+</t1>
+<t2>
+In a lawsuit demanding the payment of remuneration based on a contract for work, proof must be demonstrated with objects of the claim that the contract for work has been concluded and, if the delivery of the subject matter of work is required, that this has been delivered.
+</t2>
+</pair>
+<pair id="H22-28-1" label="Y">
+<t1>
+<article id="704"/>
+</t1>
+<t2>
+The beneficiary in bad faith of unjust enrichment must return the benefit received together with interest, and if any damages still remain, the beneficiary shall be liable to compensate for the same.
+</t2>
+</pair>
+<pair id="H22-28-2" label="N">
+<t1>
+<article id="705"/>
+</t1>
+<t2>
+Even if an obligation does not exist, a person who knows that fact, or does not know by negligence and has tendered anything as performance of an obligation, that person cannot demand the return of the thing tendered.
+</t2>
+</pair>
+<pair id="H22-28-3" label="N">
+<t1>
+<article id="706"/>
+</t1>
+<t2>
+In cases where an obligor mistakenly believes that a time of performance has arrived due to a mistake and has tended anything as  performance of his/her own obligation that has not yet fallen due , the obligor cannot demand the return of the thing tendered.
+</t2>
+</pair>
+<pair id="H22-28-4" label="N">
+<t1>
+<article id="707"/>
+</t1>
+<t2>
+Performance by a third party is also effective, and thus even if the an obligation of another person has been performed by mistake, the person who made the performance cannot demand the return of the performance to the obligee.
+</t2>
+</pair>
+</dataset>

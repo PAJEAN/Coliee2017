@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+<pair id="H27-3-U" label="N">
+<t1>
+<article id="101"/>
+<article id="96"/>
+</t1>
+<t2>
+In the case where B, who was granted authority of agency to buy a land as an agent of A, concluded a contract for sale of a land "X" with C representing that the same is made on behalf of A by the fraud of C to B, A may not rescind the contract for sale.
+</t2>
+</pair>
+<pair id="H27-3-E" label="N">
+<t1>
+<article id="108"/>
+</t1>
+<t2>
+In the case where B, who was granted authority of agency to buy a land as an agent of A, was granted authority of agency to sell the land by C, became the agent of C, and concluded a contract for sale of a land "X" between A and C, if B notified to both A and C in advance that B was the agent of both parties, the contract for sale binds A and C.
+</t2>
+</pair>
+<pair id="H27-3-I" label="Y">
+<t1>
+<article id="100"/>
+</t1>
+<t2>
+In the case where B, who was granted authority of agency to buy a land as an agent of A, concluded a contract for sale of a land "X" with C with no indication that it is made on behalf of A, if C could have known that B is concluding a contract for sale on behalf of A, the contract for sale binds A and C.
+</t2>
+</pair>
+<pair id="H27-5-U" label="Y">
+<t1>
+<article id="134"/>
+</t1>
+<t2>
+Even though A promised B that A would give his/her car "X" when A would feel like it, the contract for gifts shall be void.
+</t2>
+</pair>
+<pair id="H27-5-E" label="Y">
+<t1>
+<article id="128"/>
+</t1>
+<t2>
+In cases where A promised B that A would give his/her car "X" when B would pass a graduation examination of the medical department, if A sells his/her car "X" to a third party C, B may claim for the compensation for damages arising from A's act.
+</t2>
+</pair>
+<pair id="H27-6-1" label="N">
+<t1>
+<article id="156"/>
+</t1>
+<t2>
+In cases where an obligor who is a person under curatorship acknowledge the obligation without the consent of his/her curator, the prescription of the claim shall not be nullified.
+</t2>
+</pair>
+<pair id="H27-6-2" label="Y">
+<t1>
+<article id="147"/>
+<article id="467"/>
+</t1>
+<t2>
+In cases where the obligee assigned a claim to any third party before the lapse of the period of prescription, if the obligor has acknowledged the assignment of a claim to the assignee, the prescription of the claim shall be nullified.
+</t2>
+</pair>
+<pair id="H27-11-A" label="Y">
+<t1>
+<article id="293"/>
+</t1>
+<t2>
+If a person entitled to a servitude does not exercise a portion of his/her rights, only that portion shall be extinguished by prescription.
+</t2>
+</pair>
+<pair id="H27-11-O" label="N">
+<t1>
+<article id="280"/>
+</t1>
+<t2>
+A servitude may not be established with respect to the land, not neighboring a deminant land, as a servient land.
+</t2>
+</pair>
+<pair id="H27-11-U" label="N">
+<t1>
+<article id="282"/>
+</t1>
+<t2>
+In cases where dominant land is co-owned by more than one person, one of the co-owners of dominant land may renounce his/her own share a servitude that exists on behalf of the land.
+</t2>
+</pair>
+<pair id="H27-11-E" label="Y">
+<t1>
+<article id="292"/>
+</t1>
+<t2>
+In cases where dominant land is co-owned by more than one person, if there is a interruption of prescription in favor of one co-owner, such interruption shall also be effective for the benefit of other co-owners.
+</t2>
+</pair>
+<pair id="H27-11-I" label="Y">
+<t1>
+<article id="281"/>
+</t1>
+<t2>
+The owner of the dominant land may not assign the servitude apart from the dominant land.
+</t2>
+</pair>
+<pair id="H27-12-O" label="N">
+<t1>
+<article id="317"/>
+<article id="319"/>
+<article id="192"/>
+</t1>
+<t2>
+In cases where the hand luggage which a hotel guest brought to the hotel is not owned by him/her, the owner of the hotel may not exercise his/her statutory lien with respect to the hand luggage even if he/she believed without negligence that it was owned by the hotel guest.
+</t2>
+</pair>
+<pair id="H27-12-E" label="N">
+<t1>
+<article id="334"/>
+<article id="330"/>
+</t1>
+<t2>
+In cases where a pledge is created with respect to the subject matter of the statutory lien for sale of movables, the statutory lien for sale of movables shall prevail over the pledge.
+</t2>
+</pair>
+<pair id="H27-15-I" label="N">
+<t1>
+<article id="417"/>
+</t1>
+<t2>
+Even if the parties makes an agreement that the compensation for damages will be paid by any Thing which is not money, the agreement shall be void.
+</t2>
+</pair>
+<pair id="H27-19-O" label="Y">
+<t1>
+<article id="484"/>
+</t1>
+<t2>
+Unless any other intention is manifested with respect to the place where the performance should take place, the delivery of a specific thing must be effected at the place where such thing was located when the relevant claim accrued, and the discharge of any other obligation must be effected at the current domicile of the obligee.
+</t2>
+</pair>
+<pair id="H27-19-U" label="N">
+<t1>
+<article id="485"/>
+</t1>
+<t2>
+Unless any other intention is manifested with respect to the expense of performance, such expenses shall be borne equally by both the obligor and the obligee; however, in cases the relevant obligee caused the expense of performance to increase by relocating his/her domicile or taking any other actions, such incremental amount shall be borne by the obligee.
+</t2>
+</pair>
+<pair id="H27-19-I" label="N">
+<t1>
+<article id="491"/>
+</t1>
+<t2>
+If the borrower in loan of consumption of monies tenders any performance which is not sufficient to extinguish the total amount of the principal, the interest and the expense, he/she may designate the principal to which such performance should be allocated before any others, and the designation of the allocation shall be effected unless the lender immediately raises his/her objection.
+</t2>
+</pair>
+<pair id="H27-20-A" label="N">
+<t1>
+<article id="511"/>
+</t1>
+<t2>
+If B who had been enjoined from making payment with respect to A's claim "X" against B acquires the claim "Y" against A, B may set off the claim "X" against the claim "Y".
+</t2>
+</pair>
+<pair id="H27-20-E" label="Y">
+<t1>
+<article id="509"/>
+</t1>
+<t2>
+If any claim arises from a tortious act, the relevant obligee may assert the set-off against the obligor.
+</t2>
+</pair>
+<pair id="H27-21-O" label="N">
+<t1>
+<article id="468"/>
+<article id="533"/>
+</t1>
+<t2>
+In cases where a claim in a bilateral contract is assigned to a third party and the obligor didn't raise his/her objection without delay after the assignor gives a notice thereof to the obligor, the obligor may not raise the defense for simultaneous performance against the request for the performance by the assignee of the claim.
+</t2>
+</pair>
+<pair id="H27-21-E" label="N">
+<t1>
+<article id="545"/>
+<article id="546"/>
+<article id="533"/>
+</t1>
+<t2>
+In cases where, as a result of the cancellation of the contract for sale, each party assumes an obligation to restore the other party to that other party's original position, the obligations of both parties are not related to each other as simultaneous performance.
+</t2>
+</pair>
+<pair id="H27-22-1" label="N">
+<t1>
+<article id="415"/>
+<article id="543"/>
+</t1>
+<t2>
+In the case of a contract for sale of a specified thing, if the performance of the delivery has become impossible due to reason attributable to the seller, the effect of the contract of sale shall be lost by operation of law, then the buyer shall be relieved of liability for payment of the purchase money.
+</t2>
+</pair>
+<pair id="H27-22-3" label="Y">
+<t1>
+<article id="632"/>
+</t1>
+<t2>
+In the contract for work for the purpose of constructing a building, even if the building under construction has been lost due to reasons not attributable to either party, the contractor may not claim the entire remuneration from the party ordering the work unless he/she contructs any new builidng and complete the work.
+</t2>
+</pair>
+<pair id="H27-22-4" label="Y">
+<t1>
+<article id="665"/>
+<article id="648"/>
+<article id="536"/>
+</t1>
+<t2>
+In the contract for deposit for value, if the performance of the obligation to return deposited Thing has become impossible due to reasons not attributable to the depositary, he/she may not claim remuneration from the depositor, with respect to the period after the impossibility of performance of the agreed duration.
+</t2>
+</pair>
+<pair id="H27-23-A" label="Y">
+<t1>
+<article id="601"/>
+<article id="587"/>
+</t1>
+<t2>
+In the cases where a lessor is the owner of the subject matter in a contract for lease, the ownership of the subject matter shall not be transfered to the lessee, on the other hand, in the cases where a lender is the owner of the subject matter in a contract for loan for consumption, the ownership of the subject matter shall be transfered to the borrower.
+</t2>
+</pair>
+<pair id="H27-23-O" label="N">
+<t1>
+<article id="601"/>
+<article id="587"/>
+</t1>
+<t2>
+A contract for lease is a consensual contract so that a contract for lease shall be formed by the agreement between the perties. 
+On the other hand, a contract for loan for consumption is a contract in kind, so that even if the perties promises that one of the parties will deliver money or other things and the other party will return by means of things that are the same in kind, quality and quantity, the agreement shall be void.
+</t2>
+</pair>
+<pair id="H27-23-U" label="Y">
+<t1>
+<article id="614"/>
+</t1>
+<t2>
+Both the timing of payment of rent in a contract for lease and the timing of payment of interest in a contract for loan for consumption may freely be determined by the agreement of the parties.
+</t2>
+</pair>
+<pair id="H27-23-E" label="N">
+<t1>
+<article id="617"/>
+<article id="591"/>
+</t1>
+<t2>
+In cases where the parties do not specify the term of a lease, if the lessor requests to terminate it, the lessee shall not be responsible for the delay within the statutory period without returning the Things; however, in cases where the parties do not define the time for return in a loan for consumption, if the lender demands their return, the borrower shall be resposible for the delay unless he/she returns the Things immediately.
+</t2>
+</pair>
+<pair id="H27-23-I" label="N">
+<t1>
+<article id="617"/>
+<article id="591"/>
+</t1>
+<t2>
+If the parties do not specify the term of a lease, the lessee may request to terminate it at any time.
+On the other hand, if the parties do not define the time for return in a loan for consumption, the borrower may request to terminate it any time only in a loan for consumption without interest.
+</t2>
+</pair>
+<pair id="H27-24-1" label="Y">
+<t1>
+<article id="595"/>
+<article id="608"/>
+</t1>
+<t2>
+The borrower shall bear the ordinarily necessary costs of borrowed Things.
+The lessee shall not bear the ordinarily necessary costs of leased Things.
+</t2>
+</pair>
+<pair id="H27-24-2" label="N">
+<t1>
+<article id="594"/>
+<article id="616"/>
+</t1>
+<t2>
+A borrower must make use of and take the profits of the Thing which is the subject matter of the contract in compliance with the method of use specified by the contract or by the nature of the Thing which is the subject matter of the contract.
+A lessee need not make use of and take the profits of the Thing which is the subject matter of the contract in compliance with the method of use specified by the contract or by the nature of the Thing which is the subject matter of the contract.
+</t2>
+</pair>
+<pair id="H27-24-3" label="N">
+<t1>
+<article id="599"/>
+</t1>
+<t2>
+Loans for use shall lose its effect on the death of the lender by operation of law.
+Leases shall not lose its effect on the death of the lessor by operation of law.
+</t2>
+</pair>
+<pair id="H27-24-4" label="N">
+<t1>
+<article id="598"/>
+<article id="616"/>
+</t1>
+<t2>
+A borrower must restore a borrowed Thing to its original condition on termination of the loan for use, but the borrower must obtain the consent of the lender to remove anything attached to the borrowed Thing.
+A lessee must restore a leased Thing to its original condition on termination of the lease, but the lessee need not obtain the consent of the lessor to remove anything attached to the leased Thing.
+</t2>
+</pair>
+<pair id="H27-25-A" label="Y">
+<t1>
+<article id="613"/>
+<article id="601"/>
+<article id="606"/>
+</t1>
+<t2>
+A concluded the contract with B that A leases his/her two-storied building "X" at a charge of 500,000 yen a month, and delivered the building "X" to B. 
+After that, B concluded the contract with C that B subleases the building "X" at a charge of 500,000 yen a month with obtaining the approval of A, and delivered the building "X" to C.
+After a while, C became unable to use the second story of the building "X" due to the leak caused by defect of the roof.
+C may demand B to repair the defect of the roof of the building "X".
+</t2>
+</pair>
+<pair id="H27-25-O" label="N">
+<t1>
+<article id="613"/>
+</t1>
+<t2>
+A concluded the contract with B that A leases his/her two-storied building "X" at a charge of 500,000 yen a month, and delivered the building "X" to B.
+After that, B concluded the contract with C that B subleases the building "X" at a charge of 500,000 yen a month with obtaining the approval of A, and delivered the building "X" to C. 
+After a while, C became unable to use the second story of the building "X" due to the leak caused by defect of the roof.
+If B refuses to repair the defect of the roof of the building "X", C may demand A to repair the defect of the roof of the building "X".
+</t2>
+</pair>
+<pair id="H27-26-A" label="N">
+<t1>
+<article id="641"/>
+<article id="635"/>
+</t1>
+<t2>
+The party ordering work may cancel the contract by compensating any damages, even if the contractor has completed the work with the purpose of its obligation.
+</t2>
+</pair>
+<pair id="H27-26-U" label="Y">
+<t1>
+<article id="642"/>
+</t1>
+<t2>
+In cases where the party ordering work is subject to a ruling for the commencement of bankruptcy procedures, the contractor may cancel the contract.
+</t2>
+</pair>
+<pair id="H27-26-I" label="Y">
+<t1>
+<article id="634"/>
+<article id="635"/>
+<article id="640"/>
+</t1>
+<t2>
+Even if the contractor agrees to a special agreement to the effect that the contractor will not be liable for the warranty against defects, the contractor may not be released from the contractor's liability with respect to defects, in the subject matter of work performed and delivered, the contractor knew and did not disclose.
+</t2>
+</pair>
+<pair id="H27-27-A" label="N">
+<t1>
+<article id="634"/>
+</t1>
+<t2>
+In the case where the delivery of the subject matter of work performed is required, if the defect in the subject matter is evident at the time of the delivery of it, the contractor shall not be liable for the warranty against defects.
+</t2>
+</pair>
+<pair id="H27-27-O" label="Y">
+<t1>
+<article id="634"/>
+</t1>
+<t2>
+If there is any defect in the subject matter of work performed, the party ordering the work may demand compensation for damages in lieu of, or in addition to, the repair of the defect.
+</t2>
+</pair>
+<pair id="H27-27-U" label="Y">
+<t1>
+<article id="636"/>
+</t1>
+<t2>
+If the defect in the subject matter of the work arises due to the nature of the materials supplied by, or instructions given by, the party ordering the work, the contractor is not liable for the warranty against the defect unless the contractor knew that the materials or instructions were inappropriate but did not disclose the same.
+</t2>
+</pair>
+<pair id="H27-27-E" label="N">
+<t1>
+<article id="635"/>
+</t1>
+<t2>
+In cases where there is any defect in the subject matter of work performed, if the repair of the defect is impossible, the party ordering the work may cancel the contract.
+</t2>
+</pair>
+<pair id="H27-27-I" label="Y">
+<t1>
+<article id="637"/>
+</t1>
+<t2>
+Where no delivery of the subject matter is required, the duration of contractor's warranty commences to run from the time of the completion of the work.
+</t2>
+</pair>
+<pair id="H27-28-A" label="N">
+<t1>
+<article id="711"/>
+</t1>
+<t2>
+A person who has taken the life of another must compensate for damages only to heirs of the victim.
+</t2>
+</pair>
+<pair id="H27-28-U" label="Y">
+<t1>
+<article id="715"/>
+</t1>
+<t2>
+A person who employs others for a certain business shall be liable for damages inflicted on a third party by his/her employees with respect to the execution of that business, and this shall apply even if the employees have the sufficient financial resources to compensate.
+</t2>
+</pair>
+<pair id="H27-28-I" label="Y">
+<t1>
+<article id="713"/>
+</t1>
+<t2>
+A person who has temporarily invited  with negligence the condition lacking the capacity to appreciate his/her liability for his/her own act shall be liable to compensate for the damages he/she inflicted on others during that period.
+</t2>
+</pair>
+<pair id="H27-29-A" label="N">
+<t1>
+<article id="767"/>
+<article id="771"/>
+<article id="751"/>
+</t1>
+<t2>
+The surname of a husband or wife who has taken a new name by marriage shall revert to the surname used before marriage by divorce or the death his/her spouse; however, he/she may use the surname he/she used at the time of dissolution of his/her previous marriage by notification within the statutory period.
+</t2>
+</pair>
+<pair id="H27-29-O" label="Y">
+<t1>
+<article id="728"/>
+</t1>
+<t2>
+In the case where a husband and wife divorce, the relationship between relatives by affinity shall come to an end; however, in the case where a spouse has died, only if the surviving spouse indicates an intention to end the relationship between relatives by affinity, the relationship shall come to an end.
+</t2>
+</pair>
+<pair id="H27-29-U" label="Y">
+<t1>
+<article id="819"/>
+</t1>
+<t2>
+In cases where a child between a couple during marriage is a minor, if parents divorce by agreement, they may agree upon which parent shall have parental authority in relation to a child without obtaining the permission of the family court.
+</t2>
+</pair>
+<pair id="H27-31-A" label="Y">
+<t1>
+<article id="844"/>
+</t1>
+<t2>
+A guardian may, where any justifiable reason exists, surrender his/her office upon the permission of the family court.
+</t2>
+</pair>
+<pair id="H27-31-O" label="N">
+<t1>
+<article id="868"/>
+</t1>
+<t2>
+In the case where a person who has parental authority does not have the right of administration of property, a guardian of a minor shall have authority regarding not olny property but also personal supervision.
+</t2>
+</pair>
+<pair id="H27-31-U" label="N">
+<t1>
+<article id="819"/>
+</t1>
+<t2>
+If parents agree upon which parent shall have parental authority in relation to a child at the time of divorce, they may agree that the other parent shall have parental authority.
+</t2>
+</pair>
+<pair id="H27-31-E" label="Y">
+<t1>
+<article id="838"/>
+<article id="834"/>
+<article id="834-2"/>
+<article id="837"/>
+</t1>
+<t2>
+If there is no person with parental authority over a minor as a result of a ruling of suspension of parental authority, guardianship shall commence.
+</t2>
+</pair>
+<pair id="H27-31-I" label="N">
+<t1>
+<article id="818"/>
+</t1>
+<t2>
+An adopted child excluding specially adopted child (what is called a regular adopted child) shall be subject to the parental authority of his/her natural parents and adoptive parents.
+</t2>
+</pair>
+<pair id="H27-32-O" label="N">
+<t1>
+<article id="859-3"/>
+</t1>
+<t2>
+A guardian of an adult shall obtain the permission of the family court for sale on the ward's behalf with regard to a building used for the adult ward's residence; however, A guardian of an adult need not obtain the permission of the family court for cancellation of lease on the ward's behalf with regard to a building used for the adult ward's residence.
+</t2>
+</pair>
+<pair id="H27-32-U" label="N">
+<t1>
+<article id="843"/>
+</t1>
+<t2>
+If a person who become subject to the ruling of commencement of guardianship has a spouse, the spouse will assume his/her guardian of an adult except in the case where he/she is incapable of exercising the duties of a guardian of an adult.
+</t2>
+</pair>
+<pair id="H27-32-E" label="Y">
+<t1>
+<article id="840"/>
+<article id="843"/>
+<article id="857-2"/>
+<article id="859-2"/>
+</t1>
+<t2>
+Irrespective of a gurdianship of an adult or a gurdianship of a minor, the family court may appoint two or more guardian and determine ex officio that the guardians should exercise authority according to a division of labor.
+</t2>
+</pair>
+<pair id="H27-32-I" label="Y">
+<t1>
+<article id="847"/>
+</t1>
+<t2>
+A bankrupt may not become a guardian.
+</t2>
+</pair>
+<pair id="H27-33-O" label="Y">
+<t1>
+<article id="990"/>
+<article id="896"/>
+</t1>
+<t2>
+A testamentary donee by a universal succession shall succeed the duties attached to the property of the decedent.
+</t2>
+</pair>
+<pair id="H27-33-U" label="N">
+<t1>
+<article id="994"/>
+</t1>
+<t2>
+In cases where the testamentary donee dies before the death of the testator, the heir of the testamentary donee inherits the right to receive the testamentary gift unless the testator has indicated a particular intent in his/her will.
+</t2>
+</pair>
+<pair id="H27-33-E" label="Y">
+<t1>
+<article id="992"/>
+</t1>
+<t2>
+Unless the testator has indicated a particular intent in his/her will, a testamentary donee may collect the fruits of a testamentary gift from the time that they are able to make a claim for the performance of that gift.
+</t2>
+</pair>
+<pair id="H27-33-I" label="Y">
+<t1>
+<article id="989"/>
+</t1>
+<t2>
+Acceptance or renunciation of a testamentary gift may not be revoked.
+</t2>
+</pair>
+<pair id="H27-34-U" label="Y">
+<t1>
+<article id="1028"/>
+</t1>
+<t2>
+In the case of comprehensive testamentary gift, if the heirs are silbings of the decendent, they shall not receive legally reserved portion.
+</t2>
+</pair>
+<pair id="H27-35-A" label="Y">
+<t1>
+<article id="20"/>
+<article id="13"/>
+</t1>
+<t2>
+In cases where the person who has concluded the contract for sale with the person under curatorship issues to the curator of such person a notice which demands, by establishing a certain period which is one month or more, that he/she should give a definite answer on whether or not such person will ratify such act which may be rescinded within such period, if the curator fails to send any definite answer within such period, he/she is deemed to have ratified the contract for sale.
+</t2>
+</pair>
+<pair id="H27-35-O" label="N">
+<t1>
+<article id="114"/>
+</t1>
+<t2>
+In cases where, with respect to a contract for sale concluded by a unauthorized agent, the counterparty requires the principal, by fixing a reasonable period of time, to make a definite answer on whether or not he/she will ratify within such period of time, if the principal fails to make any definite answer within such period, he/she is deemed to have ratified the contract for sale.
+</t2>
+</pair>
+<pair id="H27-35-U" label="Y">
+<t1>
+<article id="493"/>
+<article id="492"/>
+</t1>
+<t2>
+In cases where the obligee refuses to accept the performance in advance, the obligor shall be released from the liability for default if he/she demands the acceptance thereof by giving a notice that the tender of the performance has been prepared.
+</t2>
+</pair>
+<pair id="H27-35-E" label="Y">
+<t1>
+<article id="547"/>
+</t1>
+<t2>
+In cases where ,with respect to the right to cancel based on the failure to perform, the other party issues a notice of demand to the holder of the right to cancel, specifying a reasonable period, to the effect that the holder of the right to cancel is to give a definite answer as to whether or not the right will be exercised within that period, if no notice of cancellation is received within that period, the right to cancel shall be extinguished.
+</t2>
+</pair>
+<pair id="H27-35-I" label="N">
+<t1>
+<article id="987"/>
+</t1>
+<t2>
+In cases where a person with a duty of testamentary gift gives notice to a testamentary donee to the effect that acceptance or renunciation of a testamentary gift should be made within a specified period, fixing a period that is reasonable, if a donee does not indicate his/her intention to a person with a duty of testamentary gift within that period, the testamentary gift shall be deemed to have been accepted.
+</t2>
+</pair>
+<pair id="H27-36-A" label="N">
+<t1>
+<article id="297"/>
+</t1>
+<t2>
+A holder of a right of retention may collect fruits derived from the Thing retained, and appropriate the same to the satisfaction of his/her claim prior to other obligees, but the fruits must be appropriated to the payment of interest on the claim, and any remainder must not be appropriated to the satisfaction of the principal.
+</t2>
+</pair>
+<pair id="H27-36-O" label="Y">
+<t1>
+<article id="405"/>
+</t1>
+<t2>
+In cases the obligor delays the payment of interest corresponding to one year or more, and if the obligor does not pay such interest notwithstanding the demand by the obligee, the obligee may incorporate such interest into the principal.
+</t2>
+</pair>
+<pair id="H27-36-U" label="N">
+<t1>
+<article id="462"/>
+</t1>
+<t2>
+If a person, who has become a guarantor without the entrustment of the principal obligor, has performed the obligation, the principal obligor must pay the statutory interest for the period from the day of that performance.
+</t2>
+</pair>
+<pair id="H27-36-E" label="Y">
+<t1>
+<article id="545"/>
+</t1>
+<t2>
+In cases where a seller canceled the contract for sale based on the failure to perform the obligation after he/she received the purchase money in part, if the money which the seller received as the purchase money in part are to be refunded, interest must accrue from the time of the receipt of that money.
+</t2>
+</pair>
+<pair id="H27-36-I" label="Y">
+<t1>
+<article id="575"/>
+</t1>
+<t2>
+In cases where the seller's obligation to deliver the subject matter of the sale must be performed prior to that of the buyer and a due date is provided for the payment of the purchase money in the contract for sale, it shall not be necessary for the buyer to pay the interest even after the delivery of the subject matter of the sale until that due date arrives.
+</t2>
+</pair>
+</dataset>

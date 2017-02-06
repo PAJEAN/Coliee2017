@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+<pair id="H20-2-A" label="N">
+<t1>
+<article id="102"/>
+</t1>
+<t2>
+A minor may not be an agent.
+</t2>
+</pair>
+<pair id="H20-2-O" label="Y">
+<t1>
+<article id="6"/>
+</t1>
+<t2>
+Assuming a person is a minor, then in regards a permitted, specific business, he/she has the legal capacity to act.
+</t2>
+</pair>
+<pair id="H20-3-2" label="Y">
+<t1>
+<article id="9"/>
+</t1>
+<t2>
+An  act of paying electricity charges by adult ward without obtaining the consent of his/her guardian is not voidable.
+</t2>
+</pair>
+<pair id="H20-3-3" label="Y">
+<t1>
+<article id="13"/>
+</t1>
+<t2>
+A person under curatorship's act of accepting payment for a loan without obtaining the consent of his/her curator's  is voidable.
+</t2>
+</pair>
+<pair id="H20-3-4" label="Y">
+<t1>
+<article id="15"/>
+<article id="876-9"/>
+</t1>
+<t2>
+Assuming cases where a making an order for commencement of assistance has been handed down, it does not necessarily mean that the assistant naturally grants authority of representation.
+</t2>
+</pair>
+<pair id="H20-3-5" label="N">
+<t1>
+<article id="20"/>
+</t1>
+<t2>
+If a person under curatorship commits a voidable act, the counterparty of that act may issue a notice to any person under curatorship which demands that he/she should obtain the ratification of his/her curator, but may not directly issue the notice to the curator which demands a response of whether or not the curator has ratified.
+</t2>
+</pair>
+<pair id="H20-6-2" label="Y">
+<t1>
+<article id="108"/>
+<article id="113"/>
+</t1>
+<t2>
+A self-contract and representation of both parties shall not produce an effect as a general rule, excluding acts of performance of any obligation and acts authorized by principle in advance, but since it is a system made to protect the principle, he/she may make it valid if he/she ratifies it as an act of unauthorized agency.
+</t2>
+</pair>
+<pair id="H20-6-5" label="Y">
+<t1>
+<article id="99"/>
+<article id="107"/>
+</t1>
+<t2>
+A subagent's acts are equivalent to an agent's acts because he/she does not act in agency for the agent, but in agency for the priciple, so it is sufficient if he/she indicates that his/her acts are made on behalf of the principle.
+</t2>
+</pair>
+<pair id="H20-12-1" label="N">
+<t1>
+<article id="300"/>
+<article id="350"/>
+</t1>
+<t2>
+Even while a holder of a right of retention continually possesses the retained object, extinctive prescription progresses for that secured claim, but if the pledgee continually possesses the Thing pledged, then the extinctive prescription for that secured claim may be interrupted.
+</t2>
+</pair>
+<pair id="H20-12-2" label="N">
+<t1>
+<article id="345"/>
+</t1>
+<t2>
+Since a pledge differs from a right of retention as a right to contracted collateral, if there is a contract, then a pledge may be established by a person acting as an agent allowing the pledgor to possess the collateral.
+</t2>
+</pair>
+<pair id="H20-12-4" label="Y">
+<t1>
+<article id="296"/>
+<article id="301"/>
+<article id="350"/>
+</t1>
+<t2>
+A right of retention and a pledge do not expire by just satisfying his/her a portion of the secured claim due to their indivisibility, but for a right of retention, the obligor may demand the expiration of the right by offering appropriate collateral.
+</t2>
+</pair>
+<pair id="H20-12-5" label="Y">
+<t1>
+<article id="298"/>
+<article id="350"/>
+</t1>
+<t2>
+If a holder of a right of retention has consent of the obligor, or if a pledgee has consent of the pledgor, then they each may lease any collateral.
+</t2>
+</pair>
+<pair id="H20-15-A" label="Y">
+<t1>
+<article id="350"/>
+<article id="298"/>
+</t1>
+<t2>
+A pledgee must possess a pledged Thing with the  care of a good manager.
+</t2>
+</pair>
+<pair id="H20-15-I" label="N">
+<t1>
+<article id="659"/>
+</t1>
+<t2>
+A gratuitous depositary shall assume the duty to retain the Thing deposited  with the care of a good manager.
+</t2>
+</pair>
+<pair id="H20-15-E" label="N">
+<t1>
+<article id="926"/>
+</t1>
+<t2>
+An heir who has made qualified acceptance shall administrate the inherited property with the care of a good manager until payments to the inheritance obligee and donee are ended.
+</t2>
+</pair>
+<pair id="H20-15-O" label="N">
+<t1>
+<article id="827"/>
+</t1>
+<t2>
+A person who exercises parental authority shall administrate his/her child's assets with the care of a good manager.
+</t2>
+</pair>
+<pair id="H20-18-A" label="Y">
+<t1>
+<article id="446"/>
+</t1>
+<t2>
+No contract of guarantee shall be effective unless it is made in writing, but when it is concluded with an electromagnetic record,  it is deemed to be made in writing.
+</t2>
+</pair>
+<pair id="H20-18-U" label="Y">
+<t1>
+<article id="447"/>
+</t1>
+<t2>
+If a guarantor contracted a penalty for guaranteed debt with an obligee, the guarantor's burden may become heavier due to the burden of the principal obligor.
+</t2>
+</pair>
+<pair id="H20-18-E" label="Y">
+<t1>
+<article id="460"/>
+</t1>
+<t2>
+When the principal obligation has fallen due, a person that made a guarantee after receiving consignment of the principal obligor may exercise the right to obtain reimbursement vis-a-vis the principal obligor even before making his/her own payment.
+</t2>
+</pair>
+<pair id="H20-18-O" label="N">
+<t1>
+<article id="465-2"/>
+</t1>
+<t2>
+When a maximum amount is not stipulated in a contract of revolving guarantee between juridicial persons that will take on obligation of a monetary loan as their primary obligation, that contract of revolving guarantee shall not become effective.
+</t2>
+</pair>
+<pair id="H20-19-A" label="Y">
+<t1>
+<article id="494"/>
+</t1>
+<t2>
+Performance deposit may be done when the obligee refuses the receipt of performance when the obligee is unable to accept the performance, or when the obligor is unable to ascertain the obligee without any negligence on the part of the performer.
+</t2>
+</pair>
+<pair id="H20-19-I" label="N">
+<t1>
+<article id="494"/>
+</t1>
+<t2>
+Obligation for which performance deposit is made shall expire when the obligee receives the thing deposited.
+</t2>
+</pair>
+<pair id="H20-19-U" label="N">
+<t1>
+<article id="496"/>
+</t1>
+<t2>
+The obligor may not recover the deposited property without consent of the obligee after performing performance deposit.
+</t2>
+</pair>
+<pair id="H20-19-E" label="Y">
+<t1>
+<article id="495"/>
+</t1>
+<t2>
+To use money or documents of title for performance deposit, they shall be put in the official depository of the place of performance of the obligation.
+</t2>
+</pair>
+<pair id="H20-19-O" label="N">
+<t1>
+<article id="474"/>
+<article id="494"/>
+</t1>
+<t2>
+A person other than the obligor may not do performance deposit.
+</t2>
+</pair>
+<pair id="H20-21-U" label="Y">
+<t1>
+<article id="557"/>
+</t1>
+<t2>
+If person Y forfeited the earnest money and cancelled the contract, an obligation for compensation of damages shall not arise for person X and person Y.
+</t2>
+</pair>
+<pair id="H20-22-1" label="Y">
+<t1>
+<article id="555"/>
+<article id="560"/>
+</t1>
+<t2>
+The plaintiff must assert that he/she entered into a sales contract with the defendant as the cause for action, but does not need to assert that he/she owned the subject matter of the sales contract when he/she entered into it.
+</t2>
+</pair>
+<pair id="H20-23-5" label="Y">
+<t1>
+<article id="588"/>
+</t1>
+<t2>
+A quasi-loan contract shall not become effective when old obligation as its subject matter does not exist.
+</t2>
+</pair>
+<pair id="H20-24-5" label="Y">
+<t1>
+<article id="608"/>
+</t1>
+<t2>
+When a lessee of a building repaired a leak in the roof at his/her own expense that the lessor should repair, he/she may immediately demand reimbursement of the entire amount of the repair expenses from the lessor.
+</t2>
+</pair>
+<pair id="H20-26-1" label="Y">
+<t1>
+<article id="623"/>
+<article id="624"/>
+</t1>
+<t2>
+An employment contract is a contract for value, and the timing of payment of remuneration shall be deferred payment in principle, but a special provision for advance payment may be entered.
+</t2>
+</pair>
+<pair id="H20-26-2" label="N">
+<t1>
+<article id="632"/>
+<article id="633"/>
+<article id="624"/>
+</t1>
+<t2>
+A contract for work is a contract for value, and when there is a need to transfer the subject matter, the renumeration must be paid simultaneously with delivery, and when there is no need to deliver a thing, it must be paid simultaneously with the completion of work.
+</t2>
+</pair>
+<pair id="H20-26-3" label="Y">
+<t1>
+<article id="648"/>
+</t1>
+<t2>
+A mandate contract is gratuitous contract in principle, but if there is a special provision,  the mandatary may demand renumeration from the mandator.
+</t2>
+</pair>
+<pair id="H20-26-5" label="Y">
+<t1>
+<article id="306"/>
+<article id="308"/>
+</t1>
+<t2>
+A worker has a statutory lien for the general assets of an employer as collateral for the claim to renumeration that he/she has.
+</t2>
+</pair>
+<pair id="H20-27-A" label="N">
+<t1>
+<article id="670"/>
+</t1>
+<t2>
+If the execution of business for a partnership is mandated, the operating officers shall be selected from among the partners.
+</t2>
+</pair>
+<pair id="H20-27-I" label="Y">
+<t1>
+<article id="679"/>
+<article id="681"/>
+</t1>
+<t2>
+A partner may receive a refund of his/her share assuming he/she was expelled.
+</t2>
+</pair>
+<pair id="H20-27-U" label="N">
+<t1>
+<article id="675"/>
+</t1>
+<t2>
+Partners bear the the responsibility for the performance of obligation jointly and mutually vis-a-vis the partnership's obligees.
+</t2>
+</pair>
+<pair id="H20-27-E" label="N">
+<t1>
+<article id="679"/>
+</t1>
+<t2>
+If a partner dies, his/her heir shall assume his/her position.
+</t2>
+</pair>
+<pair id="H20-27-O" label="Y">
+<t1>
+<article id="676"/>
+</t1>
+<t2>
+A partner may not demand the division of partnership property before liquidation, and even if a partner disposes his/her share with respect to the partnership, the disposal may not be asserted against  the partnership in his/her appropriation.
+</t2>
+</pair>
+<pair id="H20-28-A" label="Y">
+<t1>
+<article id="714"/>
+</t1>
+<t2>
+If a plaintiff files against a person with the legal obligation to supervise a person without capacity to assume liability as a defendant, and demands compensation of damages based on the liability of the person with the obligation to supervise a person without capacity to assume liability in Civil Code Article 714, Paragraph 1, the defendant may assert that he/she did not neglect his/her obligation to supervise as an affirmative defense.
+</t2>
+</pair>
+<pair id="H20-28-I" label="N">
+<t1>
+<article id="714"/>
+</t1>
+<t2>
+If a plaintiff files against a person with the legal obligation to supervise a person without capacity to assume liability as a defendant, and demands compensation of damages based on the liability of the person with the obligation to supervise a person without capacity to assume liability in Civil Code Article 714, Paragraph 1, the defendant may assert that an agent supervisor was there in addition to the person with the obligation to supervise as an affirmative defense.
+</t2>
+</pair>
+<pair id="H20-28-U" label="Y">
+<t1>
+<article id="715"/>
+</t1>
+<t2>
+If a plaintiff files against the employer of person A as the defendant on grounds that pressupose the establishment of liability by person A's tortious act, and demands compensation of damages based on the liability of the employer in Civil Code Article 715, Paragraph 1, the defendant may assert that he/she exhausted his/her duty of care as deemed appropriate for the assigned supervision of person A as an affirmative defense.
+</t2>
+</pair>
+<pair id="H20-28-E" label="Y">
+<t1>
+<article id="715"/>
+</t1>
+<t2>
+If a plaintiff files against an agent supervisor of person A as a defendant on grounds that presuppose the establishment of liability by person A's tortious acts, and demands compensation of damages based on the liability of the agent supervisor in Civil Code Article 715, Paragraph 2, the defendant may assert that even by exercising his/her duty of reasonable care for the assigned supervision of person A, he/she could not have been avoided person A's creation of an injurious act as an affirmative defense.
+</t2>
+</pair>
+<pair id="H20-28-O" label="N">
+<t1>
+<article id="717"/>
+</t1>
+<t2>
+If a plaintiff files against a land owner as a defendant, and demands compensation of damages based on the liability of owner of structure on land proviso in Civil Code Article 717, Paragraph 1, the defendant may not assert that he/she exercised his/her required duty of care in order to prevent the occurrence of the results as an affirmative defense, but he/she may assert his/her own doli incapax as an affirmative defense.
+</t2>
+</pair>
+<pair id="H20-30-I" label="N">
+<t1>
+<article id="93"/>
+</t1>
+<t2>
+In the case of concealment of true intention, assuming the other party was unaware of the true intention of the party making the manifestation, and there was no gross negligence regarding that lack of knowledge, that manifestation of intention shall be valid.
+</t2>
+</pair>
+<pair id="H20-30-O" label="N">
+<t1>
+<article id="478"/>
+</t1>
+<t2>
+Any performance made vis-a-vis a quasi-possessor of a claim is effective when the performer acts without knowledge, and is free from any negligence.
+</t2>
+</pair>
+</dataset>

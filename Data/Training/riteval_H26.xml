@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+<pair id="H26-1-A" label="N">
+<t1>
+<article id="737"/>
+<article id="838"/>
+</t1>
+<t2>
+If there is a guardian of a minor, the minor shall obtain the consent of his/her guardian of minor to marry.
+</t2>
+</pair>
+<pair id="H26-1-C" label="N">
+<t1>
+<article id="962"/>
+<article id="9"/>
+</t1>
+<t2>
+A will made by an adult ward may be rescinded by guardian of the adult ward.
+</t2>
+</pair>
+<pair id="H26-1-E" label="Y">
+<t1>
+<article id="11"/>
+</t1>
+<t2>
+The family court may order the commencement of curatorship without the consent of the person in question.
+</t2>
+</pair>
+<pair id="H26-1-G" label="Y">
+<t1>
+<article id="13"/>
+</t1>
+<t2>
+With respect to any act which requires the consent of the curator, if the curator does not give consent in cases where the interest of the person under curatorship is unlikely to be prejudiced, the family court may, at the request of the person under curatorship, give permission in lieu of the consent of the curator.
+</t2>
+</pair>
+<pair id="H26-1-I" label="Y">
+<t1>
+<article id="15"/>
+</t1>
+<t2>
+The ruling of commencement of assistance at the request of any person other than the person in question shall require the consent of the person in question.
+</t2>
+</pair>
+<pair id="H26-2-A" label="Y">
+<t1>
+<article id="96"/>
+</t1>
+<t2>
+In cases any third party commits any fraud inducing any person to make a manifestation of intention to the other party, such manifestation of intention may be rescinded if the other party knew such fact.
+On the other hand, in cases any third party commits any duress inducing any person to make a manifestation of intention to the other party, such manifestation of intention may be rescinded even if the other party did not know such fact.
+</t2>
+</pair>
+<pair id="H26-2-G" label="Y">
+<t1>
+<article id="95"/>
+<article id="96"/>
+</t1>
+<t2>
+Any person may assert a manifestation of intention is not only void by a mistake but also rescinded by fraud if he/she made the manifestation of intention by a mistake in any element of the juristic act in question which the other party induced by fraud.
+</t2>
+</pair>
+<pair id="H26-3-C" label="N">
+<t1>
+<article id="859"/>
+<article id="9"/>
+</t1>
+<t2>
+In cases where an adult ward may perform any act relating to daily life, a guardian of the adult ward may not represent the adult ward in juristic acts relating to daily life.
+</t2>
+</pair>
+<pair id="H26-3-G" label="Y">
+<t1>
+<article id="104"/>
+</t1>
+<t2>
+A privately appointed agent may appoint its sub-agent if the authorization of the principal is obtained or there is an unavoidable reason to do so.
+</t2>
+</pair>
+<pair id="H26-4-G" label="N">
+<t1>
+<article id="113"/>
+</t1>
+<t2>
+Even if a principal ratified the act of unauthorized agency against the unauthorized agent, the principal may not assert the ratificatoin vis-a-vis even the unauthorized agent.
+</t2>
+</pair>
+<pair id="H26-5-C" label="Y">
+<t1>
+<article id="140"/>
+</t1>
+<t2>
+In cases of calculation of the period of prescription, the first day of the period shall not be included for the purpose of the calculation unless the sases where the period commences at twelve midnight.
+</t2>
+</pair>
+<pair id="H26-6-A" label="N">
+<t1>
+<article id="166"/>
+</t1>
+<t2>
+The extinctive prescription of claims assigned unspecified due date commences to run when the obligee becomes aware of the arrival of such time limit.
+</t2>
+</pair>
+<pair id="H26-10-1" label="Y">
+<t1>
+<article id="200"/>
+</t1>
+<t2>
+A library of a university A has a book "P", and a professor B borrowes the same and uses his/her office in the same campus.
+In cases where a third party C steals and possesses "P" during B's absence to go abroad on business trip, B may claim for the restoration of "P" by bringing an action for recovery of possession against C.
+</t2>
+</pair>
+<pair id="H26-10-2" label="Y">
+<t1>
+<article id="200"/>
+</t1>
+<t2>
+A library of a university A has a book "P", and a professor B borrowes the same and uses his/her office in the same campus.
+D stole "P" the moment B took his/her eyes, in addition, D sold and delivered "P" to E under false ownership. 
+Even if "P" is stamped the ownership mark by the library, and E thinks that D embezzled "P", B may not claim for the restoration of "P" by bringing an action for recovery of possession against E.
+</t2>
+</pair>
+<pair id="H26-10-3" label="N">
+<t1>
+<article id="200"/>
+</t1>
+<t2>
+A library of a university A has a book "P", and a professor B borrowes the same and uses his/her office in the same campus.
+In the case where B left "P" in a train on the way home, and F found and possesses the same, B may claim for the restoration of "P" by bringing an action for recovery of possession against F.
+</t2>
+</pair>
+<pair id="H26-11-A" label="N">
+<t1>
+<article id="374"/>
+</t1>
+<t2>
+The order of priority of mortgages may be changed only with the agreement of all mortgagees; provided, however, the changes may not be asserted against third parties unless registered.
+</t2>
+</pair>
+<pair id="H26-11-E" label="N">
+<t1>
+<article id="375"/>
+</t1>
+<t2>
+If they created, by an establishing act, their mortgagees which secured the entire amount of periodic payments including interest, mortgagees may exercise their mortgages in prior to other obligees in accordance with act of establishment.
+</t2>
+</pair>
+<pair id="H26-11-G" label="Y">
+<t1>
+<article id="555"/>
+<article id="176"/>
+</t1>
+<t2>
+In a sale, the ownership of the subject matter transfers at the time of formation of the contract in principle, but the relevant parties may stipulate that the ownership is transferred at other time.
+</t2>
+</pair>
+<pair id="H26-11-I" label="N">
+<t1>
+<article id="356"/>
+</t1>
+<t2>
+Pledgees of immovable property may not use and receive the profits from the immovable property that is the subject matter of a pledge unless he/she obtains the consent of the pledgor.
+</t2>
+</pair>
+<pair id="H26-12-A" label="Y">
+<t1>
+<article id="209"/>
+</t1>
+<t2>
+An owner of land may request the use of the neighboring land to the extent necessary for constructing or repairing walls or buildings on or in the vicinity of the boundary; provided, however, that, if the neighbor sustained damages, the owner must pay compensation for the same.
+</t2>
+</pair>
+<pair id="H26-12-C" label="Y">
+<t1>
+<article id="213"/>
+</t1>
+<t2>
+If the partition of land creates a parcel of land that has no access to public roads, the owner of such parcel of land may pass to the public roads only through the lands owned by others who participated in the partition. 
+In such cases, it shall not be necessary to pay compensation.
+</t2>
+</pair>
+<pair id="H26-12-E" label="N">
+<t1>
+<article id="218"/>
+</t1>
+<t2>
+A landowner may install a roof that discharges rainwater directly onto neighboring land if there are unavoidable reasons; provided, however, if a neighbor suffers damage, the landowner must pay compensation for the same.
+</t2>
+</pair>
+<pair id="H26-12-G" label="N">
+<t1>
+<article id="234"/>
+</t1>
+<t2>
+Even in cases where a building must be constructed 50 centimeters or more distant away from the boundary line, the owner of the neighboring land may not have construction suspended or changed when a person attempts to construct a building in contact with the boundary.
+</t2>
+</pair>
+<pair id="H26-12-I" label="N">
+<t1>
+<article id="233"/>
+</t1>
+<t2>
+If a tree or bamboo branch from neighboring land crosses a boundary line, the landowner may sever that branch and claim reimbursement of those costs from the owner of the neighboring land. 
+</t2>
+</pair>
+<pair id="H26-13-A" label="N">
+<t1>
+<article id="295"/>
+<article id="303"/>
+</t1>
+<t2>
+The Statutory Lien cannot be created by agreement between obligee and obligor; however, the Rights of Retention may be created by agreement between obligee and obligor.
+</t2>
+</pair>
+<pair id="H26-13-E" label="Y">
+<t1>
+<article id="298"/>
+</t1>
+<t2>
+If a holder of a right of retention leased the Thing retained unless he/she obtains the consent of the obligor, the obligor may demand that the right of retention be extinguished.
+</t2>
+</pair>
+<pair id="H26-13-G" label="Y">
+<t1>
+<article id="300"/>
+</t1>
+<t2>
+If the contractor refuses to deliver of the subject matter of work performed, based on the right of retention that the secured claim is the claim of remuneration against the party ordering the work, the running of extinctive prescription of the claim of remuneration shall not be preclude.
+</t2>
+</pair>
+<pair id="H26-13-I" label="N">
+<t1>
+<article id="304"/>
+</t1>
+<t2>
+A holder of a right of retention may exercise against Things including monies that the obligor is to receive as a result of the loss of the subject matter.
+</t2>
+</pair>
+<pair id="H26-14-E" label="Y">
+<t1>
+<article id="378"/>
+</t1>
+<t2>
+If a third party who purchases a Mortgaged Immovable Properties pay the price of the same to the relevant mortgagee at the request of the mortgagee, the mortgage shall be extinguished for the benefit of that third party.
+</t2>
+</pair>
+<pair id="H26-14-G" label="N">
+<t1>
+<article id="397"/>
+<article id="162"/>
+</t1>
+<t2>
+If twenty years has elapsed from the time when it becomes possible to execute the mortgage, a mortgagor may assert the extinction of the mortgage by prescription.
+</t2>
+</pair>
+<pair id="H26-14-I" label="Y">
+<t1>
+<article id="179"/>
+</t1>
+<t2>
+In case where B holds the mortgage ranked first and C holds the mortgage ranked second with respect to a building belonging to Aeven if B purchases the building from A, the mortgage ranked first shall not be extinguished.
+</t2>
+</pair>
+<pair id="H26-16-A" label="N">
+<t1>
+<article id="492"/>
+<article id="493"/>
+</t1>
+<t2>
+In cases where the subject of sale, wine, is specified only with reference to a type, and the delivery of wine is effected at the domicile of the buyer; in case the buyer refuses to accept the performance even though the seller brings wine to the domicile of the buyer with the main purport of the obligationeven if the seller has intentionally lost wine after that, he/she shall not be liable for damages for failure to perform the obligation of delivery of wine.
+</t2>
+</pair>
+<pair id="H26-16-C" label="Y">
+<t1>
+<article id="534"/>
+<article id="401"/>
+</t1>
+<t2>
+In cases where the subject of sale, wine, is specified only with reference to a type, and the delivery of wine is effected at the domicile of the buyer; in case the buyer refuses to accept the performance even though the seller brings wine to the domicile of the buyer with the main purport of the obligationif the wine has been lost due to destruction of warehouse by arson by a third party after that, the seller shall be relieved of the obligation of delivery of wine.
+</t2>
+</pair>
+<pair id="H26-16-E" label="Y">
+<t1>
+<article id="536"/>
+</t1>
+<t2>
+In cases where the subject of sale, wine, is specified only with reference to a type, and the delivery of wine is effected at the domicile of the buyer; in case the buyer refuses to accept the performance even though the seller brings wine to the domicile of the buyer with the main purport of the obligationif the wine has been lost due to negligence of the buyer after that, the buyer shall not be relieved of the obligation of payment of purchase money.
+</t2>
+</pair>
+<pair id="H26-16-I" label="Y">
+<t1>
+<article id="493"/>
+<article id="492"/>
+</t1>
+<t2>
+In cases where the subject of sale, wine, is specified only with reference to a type, and the delivery of wine is effected at the domicile of the buyer; in case the buyer refuses to accept the performance in advancewhen the seller demands the acceptance thereof by a giving a notice that tender of the performance has been preparedeven if the seller brings wine to the domicile of the buyer with the main purport of the obligationhe/she shall not be liable for damages for failure to perform the obligation of delivery of wine.
+</t2>
+</pair>
+<pair id="H26-17-C" label="N">
+<t1>
+<article id="424"/>
+</t1>
+<t2>
+To demand the Rescission of Fraudulent Act must require that the obligor commits a juristic act with the intention to prejudice the obligee.
+</t2>
+</pair>
+<pair id="H26-18-1" label="N">
+<t1>
+<article id="434"/>
+<article id="147"/>
+</t1>
+<t2>
+In cases where B, C and D bears a joint and several obligation of 3 million yen to A and where each of them have the equally proportionate obligations; even if A requests for performance to B, the prescription shall not be nullified with respect to C and D, who do not know that fact.
+</t2>
+</pair>
+<pair id="H26-18-2" label="N">
+<t1>
+<article id="436"/>
+<article id="440"/>
+<article id="434"/>
+</t1>
+<t2>
+In cases where B, C and D bears a joint and several obligation of 3 million yen to A and where each of them have the equally proportionate obligations; even if B effected the set-off intended to invoke his/her monetary claim against A, the set-off shall be void vis-a-vis C and D.
+</t2>
+</pair>
+<pair id="H26-18-4" label="N">
+<t1>
+<article id="439"/>
+</t1>
+<t2>
+In cases where B, C and D bears a joint and several obligation of 3 million yen to A and where each of them have the equally proportionate obligations; even if the prescription is completed with respect to B, C and D shall bear a joint and several obligation of 3 million yen to A.
+</t2>
+</pair>
+<pair id="H26-19-A" label="N">
+<t1>
+<article id="447"/>
+</t1>
+<t2>
+In cases where the contract of guarantee between C and B is concluded with respect to monetary debt of A against B; if the penalty about the debt of A against B is not provided, C may not stipulate penalty with regard to the contract of guarantee between C and B.
+</t2>
+</pair>
+<pair id="H26-19-C" label="Y">
+<t1>
+<article id="449"/>
+</t1>
+<t2>
+In cases where the contract of guarantee between C and B is concluded with respect to monetary debt of A against B; in the case A is a minor and assumed the obligation against B without consent of the legal representative, C was aware, at the time of entering into a contract gurantee, of such fact, C shall be presumed to have assumed an independent obligation of the same subject in the event of rescission of the obligation of A.
+</t2>
+</pair>
+<pair id="H26-19-E" label="Y">
+<t1>
+<article id="463"/>
+<article id="443"/>
+</t1>
+<t2>
+In cases where the contract of guarantee between C and B is concluded with respect to monetary debt of A against B; in case the amount of the monetary debt of A against B is 5 million yen and C has become a guarantor as entrusted by A, after that, A thought he/she was going to set off his/her obligation against his/her claim of 3 million yen against Bwhen C performs his/her obligation without giving to A  a notice, A may refuse reimbursement of 5 million yen from C to the extent of 3 million yen by asserting that A could set off.
+</t2>
+</pair>
+<pair id="H26-19-G" label="Y">
+<t1>
+<article id="462"/>
+</t1>
+<t2>
+In cases where the contract of guarantee between C and B is concluded with respect to monetary debt of A against B; when C, who has become a guarantor against the will of A, has performed the obligation, C shall have the right to obtain reimbursement only to the extent that A is actually enriched. 
+</t2>
+</pair>
+<pair id="H26-20-1" label="Y">
+<t1>
+<article id="494"/>
+<article id="474"/>
+</t1>
+<t2>
+In case where the obligee refuses to accept such performance although a third party who has interest in an obligation tenders the performancehe/she may deposit the subject-matter of the performance with an official depository even if it is contrary to the intention of the obligor.
+</t2>
+</pair>
+<pair id="H26-20-2" label="N">
+<t1>
+<article id="494"/>
+</t1>
+<t2>
+If the obligor is unable to ascertain the obligeethe obligor may deposit the subject-matter of the performance with an official deposit, regardless of any negligence on the part of the obligor.
+</t2>
+</pair>
+<pair id="H26-20-3" label="N">
+<t1>
+<article id="494"/>
+</t1>
+<t2>
+In case where the obligor deposits the subject-matter of the performance with an official depository, the obligation shall not be extinguished unless the obligee accepts the relevant deposited property.
+</t2>
+</pair>
+<pair id="H26-20-4" label="N">
+<t1>
+<article id="496"/>
+</t1>
+<t2>
+In cases where the obligor depositedhe/she mya not recover the deposited property without the consent of the obligee.
+</t2>
+</pair>
+<pair id="H26-20-5" label="Y">
+<t1>
+<article id="498"/>
+</t1>
+<t2>
+In cases where the obligor who has effected a deposit may assert defense for simultaneous performancethe obligee must tender his/her performance in return to the obligor, in order to accept the relevant deposited property.
+</t2>
+</pair>
+<pair id="H26-22-1" label="N">
+<t1>
+<article id="549"/>
+</t1>
+<t2>
+Gifts is unilateral juristic act formed by the manifestation to give own property to the other party gratuitously.
+</t2>
+</pair>
+<pair id="H26-22-2" label="N">
+<t1>
+<article id="550"/>
+</t1>
+<t2>
+Gifts not in writing may also be revoked with respect to any portion of the gift for which performance has been completed. 
+</t2>
+</pair>
+<pair id="H26-22-3" label="Y">
+<t1>
+<article id="400"/>
+</t1>
+<t2>
+Until the completion of the delivery of a specific thing, the donor shall assume a duty to take custody of such property with due care of a prudent manager.
+</t2>
+</pair>
+<pair id="H26-22-4" label="N">
+<t1>
+<article id="551"/>
+</t1>
+<t2>
+If there is any defect in the specific gift, the donor shall assume a warranty identical to that borne by the seller.
+</t2>
+</pair>
+<pair id="H26-23-A" label="N">
+<t1>
+<article id="574"/>
+<article id="484"/>
+</t1>
+<t2>
+Even if the delivery of the subject matter of the sale is received prior to the purchase money, the payment must be made at the place of delivery.
+</t2>
+</pair>
+<pair id="H26-23-E" label="Y">
+<t1>
+<article id="577"/>
+</t1>
+<t2>
+If any mortgage, statutory lien or pledge is registered on immovable property that has been purchased, the buyer may refuse to pay the purchase money until the completion of the procedures of the claim for extinguishment of the morgage, the statutory lien or the pledge.
+</t2>
+</pair>
+<pair id="H26-23-G" label="N">
+<t1>
+<article id="557"/>
+</t1>
+<t2>
+When the buyer delivers earnest money to the sellerif the seller cancels the contract by reimbursing twice its amountit shall be sufficient if he/she demands the acceptance thereof by giving an oral notice that he/she reimburses twice the amount of the earnest money.
+</t2>
+</pair>
+<pair id="H26-24-A" label="N">
+<t1>
+<article id="597"/>
+</t1>
+<t2>
+If the parties have not specified the timing of the return and the purposes of the using and taking profits, the lender may not demand the return of the subject matter of the loan for use unless the lender demands the return, specifying a reasonable period.
+</t2>
+</pair>
+<pair id="H26-24-E" label="Y">
+<t1>
+<article id="596"/>
+<article id="551"/>
+</t1>
+<t2>
+In the case where the lender knew that there is any latent defect in the subject matter of a loan for usehe/she is released from the warranty against defects if he/she disclosed its existence to the borrower.
+</t2>
+</pair>
+<pair id="H26-24-G" label="Y">
+<t1>
+<article id="593"/>
+<article id="400"/>
+</t1>
+<t2>
+A borrower must retain the subject matter of the loan for use with the care of a good manager.
+</t2>
+</pair>
+<pair id="H26-24-I" label="N">
+<t1>
+<article id="599"/>
+</t1>
+<t2>
+If the borrower dies, his/her heir shall succeed the right to make use of and take the profits of the borrowed Thing as a borrower.
+</t2>
+</pair>
+<pair id="H26-25-2" label="Y">
+<t1>
+<article id="587"/>
+</t1>
+<t2>
+If the parties do not stipulate interest, a loans for consumption under the civil code shall become a loan for consumption without interest.
+</t2>
+</pair>
+<pair id="H26-25-3" label="Y">
+<t1>
+<article id="590"/>
+</t1>
+<t2>
+If there is any latent defect in any borrowed Thing in a loan for consumption with interest, the lender must replace it with another Thing without defect.
+</t2>
+</pair>
+<pair id="H26-25-4" label="N">
+<t1>
+<article id="589"/>
+</t1>
+<t2>
+The pre-contract of a loan for consumption shall not lose its effect if a ruling for the commencement of bankruptcy procedures is subsequently made against the borrower.
+</t2>
+</pair>
+<pair id="H26-25-5" label="Y">
+<t1>
+<article id="136"/>
+</t1>
+<t2>
+The borrower may return borrowed Things ealier than the time specified in the contract; however, that may not prejudice the interestof the lender.
+</t2>
+</pair>
+<pair id="H26-27-A" label="Y">
+<t1>
+<article id="697"/>
+<article id="701"/>
+<article id="648"/>
+</t1>
+<t2>
+In cases where A found a collared dog whose owner is unknown, and took care of it for the unknown owner; if A took the dog to his/her house and takes care of it, he/she may not demand remuneration from the owner of the dog. 
+</t2>
+</pair>
+<pair id="H26-27-C" label="N">
+<t1>
+<article id="698"/>
+</t1>
+<t2>
+In cases where A found a collared dog whose owner is unknown, and took care of it for the unknown owner; if A took the dog to his/her house and takes care of it, it shall be sufficient if he/she takes care of it exercising care identical to that he/she exercises for his/her own property.
+</t2>
+</pair>
+<pair id="H26-27-E" label="N">
+<t1>
+<article id="701"/>
+<article id="702"/>
+<article id="650"/>
+</t1>
+<t2>
+In cases where A found a collared dog whose owner is unknown, and took care of it for the unknown owner; A took the dog to his/her house and took care of it, then the dog pushed down a vase on a shoe cupboard and broke it.
+In this case, if A was free from any negligence, A may claim compensation for the loss from the owner of the dog.
+</t2>
+</pair>
+<pair id="H26-27-I" label="Y">
+<t1>
+<article id="702"/>
+<article id="295"/>
+</t1>
+<t2>
+In cases where A found a collared dog whose owner is unknown, and took care of it for the unknown owner; because the dog was injured when A found it, A had a veterinarian heal it and paid the fee.
+If the owner subsequently claims for the restoration of the dog, A may refuse to deliver the dog until A obtains reimbursement of the fee A paid.
+</t2>
+</pair>
+<pair id="H26-29-2" label="Y">
+<t1>
+<article id="717"/>
+</t1>
+<t2>
+In case where any defect in the installation or preservation of any structure on land causes damages to A, when the possessor B has used necessary care to prevent the damages arising, the owner C shall be liable to the vicitm A to compensate for his/her damages.
+</t2>
+</pair>
+<pair id="H26-30-1" label="Y">
+<t1>
+<article id="767"/>
+<article id="771"/>
+<article id="791"/>
+</t1>
+<t2>
+In the case where A and B married and adopted the surname of A, and they divorced when their child, C was 18 years old; if A and B agreed that B shall have parental authority with respect to C at the time of their divorce, and B reverted to the surname used before marriageC, who is minor, must obtain the family court's permission in order to take B's surname.
+</t2>
+</pair>
+<pair id="H26-30-2" label="Y">
+<t1>
+<article id="791"/>
+</t1>
+<t2>
+In the case where A and B married and adopted the surname of A, and they divorced when their child, C was 18 years old; if because A and B agreed that B shall have parental authority with respect to C at the time of their divorce, and that B reverted to the surname used before marriage, C took the surname of B by application to the case where a child's surname differs from that of his/her father or mother, so that C may revert to using A's surname within the statutory period, he/she does not have to obtain the family court's permission.
+</t2>
+</pair>
+<pair id="H26-30-3" label="N">
+<t1>
+<article id="750"/>
+<article id="791"/>
+<article id="810"/>
+</t1>
+<t2>
+In the case where A and B married and adopted the surname of A, and they divorced when their child, C was 18 years old; provided that A and B agreed that B shall have parental authority with respect to C at the time of their divorce, and that B married D after the divorce from A and adopted the surname of D, C, who is minor, may take the surname of D only in the case where D adopted C as his/her child.
+</t2>
+</pair>
+<pair id="H26-30-4" label="Y">
+<t1>
+<article id="810"/>
+</t1>
+<t2>
+In the case where A and B married and adopted the surname of A, and they divorced when their child, C was 18 years old; provided that C was married to E and used E's surname at the time of A and B's divorceeven if F subsequently adopts C as his/her child, C may not take F's surname.
+</t2>
+</pair>
+<pair id="H26-31-A" label="N">
+<t1>
+<article id="834-2"/>
+</t1>
+<t2>
+If a child's interests are harmed due to difficulty or inadequate in the exercise of parental authority by his/her father or mother, the family court may make a ruling of suspension of parental authority with regard to the father or mother without determining the period.
+</t2>
+</pair>
+<pair id="H26-31-C" label="N">
+<t1>
+<article id="819"/>
+</t1>
+<t2>
+In the case where parents divorce before the birth of a child, the family court shall derermine which parent shall, at the request of the father or the mother, have parent authority. 
+</t2>
+</pair>
+<pair id="H26-31-E" label="Y">
+<t1>
+<article id="857-2"/>
+</t1>
+<t2>
+If there are multiple guardians of a minor, in principle they shall exercise their authority jointly, but the family court may determine ex officio that some of the guardians should only exercise their authority regarding property individually.
+</t2>
+</pair>
+<pair id="H26-31-G" label="N">
+<t1>
+<article id="840"/>
+</t1>
+<t2>
+A juridical person may not become a gurdian of minor.
+</t2>
+</pair>
+<pair id="H26-31-I" label="Y">
+<t1>
+<article id="827"/>
+</t1>
+<t2>
+A person who exercises parental authority shall exercise the right of administration of property with the same care he/she would exercise for him/herself.
+</t2>
+</pair>
+<pair id="H26-32-A" label="Y">
+<t1>
+<article id="797"/>
+</t1>
+<t2>
+In case where A (30 years old) and B (30 years old) are a couple and they adopt E (4 years old) who is child between C (42 years old) and D (42 years old) and they are not a couple.
+C affiliated E and D has parental authority in relation to E.
+In case where the couple, A and B, adopt ED's consent and the permission of the family court shall be obtained but it is not necessary to obtain C's consent.
+</t2>
+</pair>
+<pair id="H26-32-C" label="Y">
+<t1>
+<article id="817-3"/>
+</t1>
+<t2>
+In case where A (30 years old) and B (30 years old) are a couple and they adopt E (4 years old) who is child between C (42 years old) and D (42 years old) and they are not a couple.
+C affiliated E and D has parental authority in relation to E.
+In making a ruling of special adoption between the couple, A and B, and Eboth A and B must become adoptive parents.
+If B does not become an adoptive parent, A may not be an adoptive parent.
+</t2>
+</pair>
+<pair id="H26-32-E" label="N">
+<t1>
+<article id="818"/>
+</t1>
+<t2>
+In case where A (30 years old) and B (30 years old) are a couple and they adopt E (4 years old) who is child between C (42 years old) and D (42 years old) and they are not a couple.
+C affiliated E and D has parental authority in relation to E.
+Even in case where the couple, A and B, adopt Ein order to have parental authority in relation to E, the couple, A and B, shall obtain the permission of the family court.
+</t2>
+</pair>
+<pair id="H26-32-G" label="N">
+<t1>
+<article id="809"/>
+</t1>
+<t2>
+In case where A (30 years old) and B (30 years old) are a couple and they adopt E (4 years old) who is child between C (42 years old) and D (42 years old) and they are not a couple.
+C affiliated E and D has parental authority in relation to E.
+In case where the couple, A and B, adopt Ethe legal relationship between E and D shall continue but the legal relationship between C and E shall be extinguished.
+</t2>
+</pair>
+<pair id="H26-32-I" label="Y">
+<t1>
+<article id="817-9"/>
+</t1>
+<t2>
+In case where A (30 years old) and B (30 years old) are a couple and they adopt E (4 years old) who is child between C (42 years old) and D (42 years old) and they are not a couple.
+C affiliated E and D has parental authority in relation to E.
+In making a ruling of special adoption between the couple, A and B, and Ethe legal relationship between E and his/her natural parents, C and E, shall be extinguished.
+</t2>
+</pair>
+<pair id="H26-33-A" label="N">
+<t1>
+<article id="887"/>
+<article id="891"/>
+</t1>
+<t2>
+In cases where a decedent's child has died before the commencement of inheritance, the child of the decedent's child shall be an heir as an heir per stirpes; provided, however, that the child of the decedent's child shall not be an heir as an heir per stirpes in cases where a decedent's child has lost the right to inheritance by causes of disqualification of heir or disinheritance of presumed heir (referring to a person who would otherwise become an heir upon the commencement of inheritance).
+</t2>
+</pair>
+<pair id="H26-33-C" label="N">
+<t1>
+<article id="1004"/>
+<article id="1005"/>
+</t1>
+<t2>
+If a will by holograph document the testator that has been sealed is opend without passing through probate, the will relating to inheritance shall be void.
+</t2>
+</pair>
+<pair id="H26-33-E" label="Y">
+<t1>
+<article id="892"/>
+<article id="1028"/>
+</t1>
+<t2>
+The disinheritance of a presumed heir may be done only with respect to the presumed heir who has a legally reserved portion, and may not be done with respect to siblings of the decedent.
+</t2>
+</pair>
+<pair id="H26-34-I" label="N">
+<t1>
+<article id="911"/>
+<article id="570"/>
+<article id="566"/>
+</t1>
+<t2>
+Even if it becomes clear after division of inherited property that there was a latent defect in the building belonging to the inherited property, the heir, who acquired the building by division of inherited property, may not claim warranty against defects against the other heirs.
+</t2>
+</pair>
+<pair id="H26-36-A" label="Y">
+<t1>
+<article id="702"/>
+<article id="697"/>
+<article id="650"/>
+</t1>
+<t2>
+In cases where a person who commences the management of a business for another person without being obligated to do so has incurred useful obligations on behalf of the principalif the obligation has fallen duehe/she may demand that the principal perform the obligation on his/her behalf.
+</t2>
+</pair>
+<pair id="H26-36-C" label="Y">
+<t1>
+<article id="196"/>
+</t1>
+<t2>
+Even in cases where a possesor paid ordinary necessary expenses with respect to Thing in his/her possessionhe/she may not have the person recovering the Thing reimburse them if the possessor has acquired fruits. 
+</t2>
+</pair>
+<pair id="H26-36-E" label="N">
+<t1>
+<article id="350"/>
+<article id="299"/>
+</t1>
+<t2>
+Even if a pledgee of a movable paid ordinary necessary expenses with respect to the Thing pledged which he/she is in continuous possession ofhe/she may not have the owner reimburse the same.
+</t2>
+</pair>
+<pair id="H26-36-G" label="Y">
+<t1>
+<article id="299"/>
+</t1>
+<t2>
+If a holder of a right of retention incurs ordinary necessary expenses with respect to the Thing retained, he/she may have the owner reimburse the same.
+</t2>
+</pair>
+<pair id="H26-36-I" label="N">
+<t1>
+<article id="391"/>
+<article id="196"/>
+</t1>
+<t2>
+In cases where a third party acquirer of Mortgaged Immovable Properties has incurred ordinary necessary expenses with respect to the Mortgaged Immovable Properties, even if he/she has acquired fruitshe/she shall be entitled to obtain reimbursement of the same out of the proceeds of the Mortgaged Immovable Properties prior to other obligees.
+</t2>
+</pair>
+<pair id="H26-37-A" label="Y">
+<t1>
+<article id="34"/>
+</t1>
+<t2>
+A general incorporated association shall have rights and assume duties to the extent of the purpose provided in the applicable articles of incorporation subject to the applicable provisions of the laws and regulations.
+</t2>
+</pair>
+<pair id="H26-37-C" label="N">
+<t1>
+<article id="467"/>
+</t1>
+<t2>
+Where a juridical person has assigned a nominative claim for payment of money, even if a registration of assignment is made in a claim assignment registration file with regard to the assignment of the claim, the assignment of the claim may not be asserted against a third party other than the obligor, unless the assignor gives a notice thereof to the obligor or the obligor has acknowledged the same using an instrument bearing a fixed date.
+</t2>
+</pair>
+<pair id="H26-37-E" label="Y">
+<t1>
+<article id="96"/>
+</t1>
+<t2>
+In Consumer Contract (a contract concluded between a Consumer and a Business Operator), manifestation of intention of Consumer which is induced by fraud of Business Operator may be rescinded.
+</t2>
+</pair>
+<pair id="H26-37-G" label="Y">
+<t1>
+<article id="605"/>
+</t1>
+<t2>
+The building lease, when registered, shall also be effective against a person who subsequently acquires real rights with respect to the building, even if the building is not delivered.
+</t2>
+</pair>
+</dataset>
