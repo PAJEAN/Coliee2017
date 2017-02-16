@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+<pair id="H24-1-A" label="N">
+<t1>
+<article id="15"/>
+</t1>
+<t2>
+Any person who has insufficient capacity to appreciate right or wrong due to any mental disability may not request a ruling of commencement of assistance in person.
+</t2>
+</pair>
+<pair id="H24-1-U" label="Y">
+<t1>
+<article id="13"/>
+</t1>
+<t2>
+With respect to any act which requires the consent of the curator, if the curator does not give consent in cases where the interest of the person under curatorship is unlikely to be prejudiced, the person under curatorship may make a claim to the family court for a permission in lieu of the consent of the curator.
+</t2>
+</pair>
+<pair id="H24-1-E" label="N">
+<t1>
+<article id="19"/>
+</t1>
+<t2>
+In cases any ruling for commencement of guardianship to a person under assistance is to be made, the family court need not to rescind the ruling of commencement of assistance pertaining to such person.
+</t2>
+</pair>
+<pair id="H24-2-1" label="N">
+<t1>
+<article id="120"/>
+</t1>
+<t2>
+With respect to contracts concluded by the person with limited capacity, if the person with limited capacity and the statutory agent have the right to rescind, the counterparty also has.
+</t2>
+</pair>
+<pair id="H24-2-2" label="N">
+<t1>
+<article id="120"/>
+</t1>
+<t2>
+In cases where the adult concluded a contract, and later, he/she became subject to the ruling of commencement of guardianship,the gurdian of adult may rescind the contract by proving that there is a ground for commencement of guardinaship.
+</t2>
+</pair>
+<pair id="H24-2-4" label="N">
+<t1>
+<article id="95"/>
+</t1>
+<t2>
+In cases where a person with limited capacity manipulates any fraudulent means to induce others to believe that he/she is a person with capacity, his/her jusistic act has effect even if there is a mistake in any element of the juristic act in question.
+</t2>
+</pair>
+<pair id="H24-4-A" label="Y">
+<t1>
+<article id="99"/>
+</t1>
+<t2>
+A manifestation of intention made by a third party to an agent representing that tha same is made on behalf of the principal binds the principal, even if an agent recieves the same with no indication that it is made on behalf of the principal.
+</t2>
+</pair>
+<pair id="H24-4-I" label="Y">
+<t1>
+<article id="111"/>
+</t1>
+<t2>
+The authority of agency shall be terminated when the agent is subject to an order for the commencement of guardianship.
+</t2>
+</pair>
+<pair id="H24-4-U" label="N">
+<t1>
+<article id="101"/>
+</t1>
+<t2>
+In cases the validity of a manifestation of intention should be affected by knowing any paricular circumstance, whether or not such fact existed shall, at the election of the principal, be determined with eigther the principal or the agent.
+</t2>
+</pair>
+<pair id="H24-4-E" label="N">
+<t1>
+<article id="116"/>
+</t1>
+<t2>
+In cases where the principal ratifies the contract concluded by a person without authority of agency, the contract shall be effective toward the future from the time of the rarification, unless other intention is manifested.
+</t2>
+</pair>
+<pair id="H24-4-O" label="Y">
+<t1>
+<article id="105"/>
+</t1>
+<t2>
+A privately appointed agent shall not be responsible vis-a-vis the principal for the appointment and supervision of such sub-agent if it appointed the sub-agent in accordance with the nomination by the principal: provided, however, that, this shall not apply to the cases where the agent knows that the sub-agent is untrustworthy, and fails to notify the principal thereof or to dismiss the sub-agent.
+</t2>
+</pair>
+<pair id="H24-5-1" label="Y">
+<t1>
+<article id="109"/>
+<article id="110"/>
+<article id="112"/>
+</t1>
+<t2>
+(A) broke into a stranger (B)'s house to steal B's seal and documents relating to registration, and forged the proxy which is manifested that B granted certain authority of agency to A in order to sell B's real property.
+In such case, B shall not be liable for the contract concluded by A as a agent of B that B sells his/her real property to (C), even if C knew, or were negligent in not knowing, that A was not granted the authority of agency.
+</t2>
+</pair>
+<pair id="H24-5-3" label="Y">
+<t1>
+<article id="115"/>
+</t1>
+<t2>
+A contract concluded by a person without any authority of agency may not be rescined by the counterparty who knew that the agent had no authority of agency at the time of the conclusion of the contract, even before the principal ratifies it.
+</t2>
+</pair>
+<pair id="H24-5-4" label="Y">
+<t1>
+<article id="117"/>
+</t1>
+<t2>
+If an unauthorized argent is unable to obtain the ratification of the principal, the counterparty who did not konw and without negligence in not knowing that the agent had no authorigy of agency claim damages against him/her.
+</t2>
+</pair>
+<pair id="H24-6-A" label="Y">
+<t1>
+<article id="131"/>
+</t1>
+<t2>
+In cases where it is already established conclusively at the time of the performance of the applicable juristic act that a certain condition will not be fulfilled, if such condition is a condition subsequent, such juristic act shall be unconditional; on the other hand, if such condition is a condition precedent, such juristic act shall be void.
+</t2>
+</pair>
+<pair id="H24-6-I" label="N">
+<t1>
+<article id="132"/>
+</t1>
+<t2>
+Juristic act which is subject to an unlawful condition shall be void, however jusistic act which is subject to the condition that an unlawful act not be performed shall not be void.
+</t2>
+</pair>
+<pair id="H24-6-U" label="N">
+<t1>
+<article id="129"/>
+</t1>
+<t2>
+Conditional rights may not be inherited while it is uncertain whether or not such condition has been fulfilled.
+</t2>
+</pair>
+<pair id="H24-7-A" label="N">
+<t1>
+<article id="147"/>
+</t1>
+<t2>
+In cases where the obligor who has the debt by oneself was dead and there are more than one heirs, the extinctive prescription of the debt shall be nullified until the time when the applicable heir is identified.
+</t2>
+</pair>
+<pair id="H24-7-E" label="Y">
+<t1>
+<article id="434"/>
+<article id="435"/>
+<article id="436"/>
+<article id="437"/>
+<article id="438"/>
+<article id="439"/>
+<article id="440"/>
+</t1>
+<t2>
+In cases where (A) and (B) have a joint and several obligation which A bears the portion of all, the extinctive prescription of A's obligation shall not be nullified even if B acknowledge B's obligation to the obligee; therefore, B also shall be relieved of the obligation if the extinctive prescription is completed.
+</t2>
+</pair>
+<pair id="H24-7-O" label="Y">
+<t1>
+<article id="434"/>
+</t1>
+<t2>
+In cases where (A) and (B) is a married couple, if A engages in juristic act with (C) in the single name of oneself regarding everyday household matters, the extinctive prescription of C's credit against B shall be nullified upon the judical claim of C's credit against B.
+</t2>
+</pair>
+<pair id="H24-8-3" label="Y">
+<t1>
+<article id="189"/>
+</t1>
+<t2>
+If a possessor in good faith is defeated in an action on the title, he/she shall be deemed to be a possessor in bad faith as from the time when such action was brought.
+</t2>
+</pair>
+<pair id="H24-8-5" label="N">
+<t1>
+<article id="424"/>
+</t1>
+<t2>
+An obligee (B) against (A) may demand the court against (D) who succeeds to benefits as defendant to rescind the gift from A to (C) by the reason of fraudulent act, if D knew, at the time of the gift, the fact that B is to be prejudiced.
+</t2>
+</pair>
+<pair id="H24-9-1" label="N">
+<t1>
+<article id="167"/>
+</t1>
+<t2>
+A claim may be extinguished by extinctive prescription; however, a real right may not.
+</t2>
+</pair>
+<pair id="H24-9-4" label="N">
+<t1>
+<article id="399"/>
+<article id="362"/>
+</t1>
+<t2>
+A claim may be the subject of another claim; howver, a claim may not be subject of a real right.
+</t2>
+</pair>
+<pair id="H24-10-1" label="Y">
+<t1>
+<article id="206"/>
+<article id="181"/>
+<article id="183"/>
+<article id="200"/>
+</t1>
+<t2>
+(A) bought the movable "a" from (B) and A aquired possessory right by constructive transfer, however B is forcibly dispossessed the movable "a" by (C). 
+In this case, A may claim for the restoration of the movable "a" against C not only based on the ownership but also by bringing an action for recovery of possession.
+</t2>
+</pair>
+<pair id="H24-10-2" label="N">
+<t1>
+<article id="192"/>
+<article id="178"/>
+</t1>
+<t2>
+(A) bought the movable "a" from (B) and A aquired possessory right by constructive transfer, however B also sold the movalbe "a" to (C) and delivered in actual.
+In this case, C may assert against A to aquire the ownership the movable "a" without unknowlegde and negligence regarding to the trade of the movable "a" between A and B.
+</t2>
+</pair>
+<pair id="H24-10-3" label="N">
+<t1>
+<article id="182"/>
+</t1>
+<t2>
+(A) bought the movable "a" which he/she had borrowed and possessed from (B).
+In such case, A may not asserted against B to aquire the ownership of the movable "a", unless A returns it to B and B delivers again it to A in actual.
+</t2>
+</pair>
+<pair id="H24-10-4" label="N">
+<t1>
+<article id="184"/>
+<article id="344"/>
+<article id="345"/>
+</t1>
+<t2>
+(A) got the creation of the pledge regarding to the B'movable "a" in order to secure the A's credit against B.
+In such case, the creation of the pledge shall not take effect by only delivering the movable "a" in way of transfers of possession by instructions.
+</t2>
+</pair>
+<pair id="H24-10-5" label="N">
+<t1>
+<article id="184"/>
+</t1>
+<t2>
+In cases where (A) bought the movable "a" which (B) had owned and deposited to the depositary, if A orders the depositary to thenceforward possess it on behalf of A, and such depositary consents thereto, A shall acquire the possessory right.
+</t2>
+</pair>
+<pair id="H24-11-1" label="N">
+<t1>
+<article id="167"/>
+</t1>
+<t2>
+Any claim of a real right based on an ownership is the right derived from the ownership; therefore, only a claim of real right separated from  an ownership may not be assigned, but may be extinguished by an extinctive prescription.
+</t2>
+</pair>
+<pair id="H24-11-4" label="Y">
+<t1>
+<article id="251"/>
+</t1>
+<t2>
+Although (A), (B) and (C) co-own the land used as a farm in one third of proportion, a third party with the consent of A is going to develop the land to a residential land.
+In such case, C, by oneself, may demand the third party not to develop all of the land as exercing the claim of the real right based on co-ownership.
+</t2>
+</pair>
+<pair id="H24-12-1" label="N">
+<t1>
+<article id="179"/>
+</t1>
+<t2>
+In cases where (A) have created the (B)'s supercify over A's land and registered such fact, the supercify shall be extinguished if B acquires the ownership of A's land, even if the supecify was the object of the mortgage of a third party.
+</t2>
+</pair>
+<pair id="H24-12-2" label="N">
+<t1>
+<article id="179"/>
+</t1>
+<t2>
+In cases where (A) have created the superficy for (B) and (C) over A's land and registered such fact, even if the superficy is in quasi co-ownership by B and C, the supecify shall be extinguished if B acquires the ownership of A's land.
+</t2>
+</pair>
+<pair id="H24-12-3" label="Y">
+<t1>
+<article id="179"/>
+</t1>
+<t2>
+In cases where (B) has the superficy over (A)'s land, which had already been the subject of the mortgage, and registered such fact, the supecify shall be extinguished if B acquires the ownership of A's land.
+</t2>
+</pair>
+<pair id="H24-12-5" label="N">
+<t1>
+<article id="179"/>
+</t1>
+<t2>
+In cases where (B) has the superficy over (A)'s land and registered such fact, and erected a building on A's land to lease to (C), the supecify shall not be extinguished even if B acquires the ownership of A's land.
+</t2>
+</pair>
+<pair id="H24-14-A" label="N">
+<t1>
+<article id="181"/>
+<article id="298"/>
+<article id="302"/>
+</t1>
+<t2>
+Rights of Retention is the right hold by a possessor of a Thing belonging to another porson; therefore, in cases a holder a right of retention leases the Thing retained to a third party, a right of retention shall be extinguished even if he/she obtains the consent of an owner.
+</t2>
+</pair>
+<pair id="H24-14-U" label="Y">
+<t1>
+<article id="372"/>
+<article id="304"/>
+</t1>
+<t2>
+A mortgage may also be exercised against the claim for damage that the obligor is to receive as a result of the loss of the subject matter of the mortgage; on the other hand, a right of retention may not.
+</t2>
+</pair>
+<pair id="H24-15-1" label="Y">
+<t1>
+<article id="371"/>
+</t1>
+<t2>
+If there is a default with respect to a claim secured by a mortgage, the mortgage shall extend to the fruits of the Mortgaged Immovable Properties derived after the default.
+</t2>
+</pair>
+<pair id="H24-15-3" label="N">
+<t1>
+<article id="380"/>
+</t1>
+<t2>
+A primary obligor may not make a claim for the extinction of a mortgage; however, a jointly and severally liable guarantor with respect to the obligation may make that claim.
+</t2>
+</pair>
+<pair id="H24-15-4" label="N">
+<t1>
+<article id="395"/>
+</t1>
+<t2>
+In cases where a mortgage with respect to a building is exercised, if there is a person who has been using the building since prior to the commnecement of auction procedures and posterior to the registration of the mortgage, he/she shall not be required to deliver that building to the purchaser thereof until six months have elapsed from the time when the purchaser purchased that building at auction without paying consideration with respect to the use of the building.
+</t2>
+</pair>
+<pair id="H24-15-5" label="Y">
+<t1>
+<article id="389"/>
+</t1>
+<t2>
+If a building is constructed on motgaged land by a third party afer creation of a mortgage, the mortgagee may auction the building together with the land.
+</t2>
+</pair>
+<pair id="H24-16-1" label="N">
+<t1>
+<article id="398-2"/>
+</t1>
+<t2>
+Even if claims on negotigable instruments or checks are specified as claims that are to be secured by Revolving Mortgage,  any claim on negotigable instruments or checks which issued by a third pary and endorsed by the obligor may not be treated as claims that are to be secured by Revolving Mortgage.
+</t2>
+</pair>
+<pair id="H24-16-2" label="Y">
+<t1>
+<article id="398-7"/>
+</t1>
+<t2>
+A person who acquires a claim from a revolving mortgagee before the principal is fixed may not exercise the Revolving Mortgage with respect to such claim.
+</t2>
+</pair>
+<pair id="H24-16-3" label="N">
+<t1>
+<article id="398-4"/>
+</t1>
+<t2>
+In order to effect the alterations with respect to the scope and the obligor of the claims to be secured by a Revolving Mortgage, it is not required that the approval of third parties including subordinated obligees be obtained.
+</t2>
+</pair>
+<pair id="H24-16-4" label="Y">
+<t1>
+<article id="398-8"/>
+</t1>
+<t2>
+If an inheritance of a revolving mortgagee commences before the principal is fixed, the principal secured by a Revolvoing Mortgage shall be fixed at the time of the commencement of the inheritance, unless there is the agreement between the heirs and the revolving mortgagor to success the Revolving Mortgage.
+</t2>
+</pair>
+<pair id="H24-16-5" label="Y">
+<t1>
+<article id="398-3"/>
+</t1>
+<t2>
+A revolving mortgagee after the principal is fixed may exercise his/her Revolving Mortgage up to the maximum amount with respect to all fixed payments of principal, as well as perioical payments including interest and compensation for damages resulting from failure to perform obligations that have fallen due in the most recent two years.
+</t2>
+</pair>
+<pair id="H24-17-1" label="Y">
+<t1>
+<article id="175"/>
+<article id="303"/>
+<article id="333"/>
+</t1>
+<t2>
+In cases where there is the special provision, between the seller and the buyer, that a statutoriy lien may be exercised with respect to the movables that are the subject matter of the same after the obligors have delivered those movables to third-party acquirers, the statutory lien may not be exercised with respect to the movables that are the subject matter of the same after the buyer have delivered those movables to the re-buyer even if the re-buyer has knowledge that special provision.
+</t2>
+</pair>
+<pair id="H24-17-2" label="N">
+<t1>
+<article id="346"/>
+</t1>
+<t2>
+Even if there is a special provision, between pledgee and pledgor, that the pledge does not secure the interest, the pledge of movables shall secure such interest.
+</t2>
+</pair>
+<pair id="H24-17-3" label="N">
+<t1>
+<article id="356"/>
+<article id="359"/>
+</t1>
+<t2>
+Pledgees of immovable proparty may use and receive the profits form the immovable property that is the subject matter of a pledge, and a specail provision between pledgee and pledgor may not exclude the right of that.
+</t2>
+</pair>
+<pair id="H24-17-4" label="N">
+<t1>
+<article id="370"/>
+</t1>
+<t2>
+The mortgage shall extand to the building on the mortgaged land, in cases where there is a special provision that the mortgage extends to the building on the mortgage land.
+</t2>
+</pair>
+<pair id="H24-19-1" label="N">
+<t1>
+<article id="423"/>
+</t1>
+<t2>
+In cases where the obligee (C) exercises the credit of sale value vested in the obligor (A) against (B), and filing the action regarding to the credit, if the upholding judgement of the action is established, the credit is deemed to extinguish by the performance
+</t2>
+</pair>
+<pair id="H24-20-A" label="Y">
+<t1>
+<article id="446"/>
+</t1>
+<t2>
+No contract for revolving guarantee on loans shall be effective unless it is made in writing.
+</t2>
+</pair>
+<pair id="H24-20-I" label="N">
+<t1>
+<article id="465-3"/>
+</t1>
+<t2>
+If three years have elapsed from the day of the conclusion of the relevant contract for a revolving guarantee on loans, the guarantor may request the fixing of the principal of the relevant principal obligation.
+</t2>
+</pair>
+<pair id="H24-20-U" label="Y">
+<t1>
+<article id="465-2"/>
+</t1>
+<t2>
+No contract for revolving guarantee on loans shall be effective unless the maximum amount is stipulated.
+</t2>
+</pair>
+<pair id="H24-20-E" label="Y">
+<t1>
+<article id="465-4"/>
+</t1>
+<t2>
+The principal for the principal obligation under a contract for revolving guarantee on loans shall be determined if an obligee has filed a petition for compulsory exection with respect to a claim the subject- matter of which is payment of money on any property of the guarantor, in cases where the proceedings for the compulsory exection have been commenced.
+</t2>
+</pair>
+<pair id="H24-20-O" label="N">
+<t1>
+<article id="465-4"/>
+</t1>
+<t2>
+The principal for the principal obligation under a contract for revolving guarantee on loans shall not be determined even if the relevant principal obligor has died.
+</t2>
+</pair>
+<pair id="H24-22-1" label="N">
+<t1>
+<article id="484"/>
+<article id="495"/>
+</t1>
+<t2>
+If the lessor refuses to accept the rent by causing the dispute about the completion of the lease of building, the lessee may make the deposit with the official depository having jurisdiction over the domicile of the lessee or the lessor.
+</t2>
+</pair>
+<pair id="H24-22-3" label="Y">
+<t1>
+<article id="179"/>
+</t1>
+<t2>
+In cases where a mortgage is created with respect to (B)'s land to secure (A)'s claim against B, after that, other mortgage is created with repect to the same to secure (C)' claim against B, if A inherits from B by oneself, the mortgage to secure A's claim shall be extinguished.
+</t2>
+</pair>
+<pair id="H24-22-4" label="Y">
+<t1>
+<article id="491"/>
+</t1>
+<t2>
+In cases where the obligor should pay the principal as well as the applicable interest and expenses with respect to one or more obligation(s), if the person who must perform tenders any performance which is not sufficient to extinguish such obligation in its entirety, such performance shall be allocated first to the expense, and then to the interest and principal, in this order.
+</t2>
+</pair>
+<pair id="H24-22-5" label="N">
+<t1>
+<article id="519"/>
+</t1>
+<t2>
+If an obligee manifests his/her intention to release an obligation to the obligor, such obligation shall not be extinguished unless the obligor consents.
+</t2>
+</pair>
+<pair id="H24-23-1" label="Y">
+<t1>
+<article id="459"/>
+</t1>
+<t2>
+In cases where a guarantor has given a guarantee as entrusted by the principal obligor, if he/she has, without negligence, had a judgment ordering him/her to perform the obligation to the obligee, such guarantor shall have a right to obtain reimbursement from the principal obligor.
+</t2>
+</pair>
+<pair id="H24-23-3" label="Y">
+<t1>
+<article id="443"/>
+</t1>
+<t2>
+When one joint and several obligor (C) performs his/her obligation without giving to the other joint and several obligor (A) a notice, if A may has a claim vis-a-vis the obligee (B) and may set it off, A may refuse the reimbursement from C.
+</t2>
+</pair>
+<pair id="H24-24-U" label="Y">
+<t1>
+<article id="533"/>
+</t1>
+<t2>
+With respect to the contract for sales of a land, the obligation that the seller registers the transfer of ownership and the buyer's obligation of payment shall have the relationship of simutaneous performances.
+</t2>
+</pair>
+<pair id="H24-25-1" label="Y">
+<t1>
+<article id="587"/>
+</t1>
+<t2>
+Properties other than money may be made the subject of a loan for consumption.
+</t2>
+</pair>
+<pair id="H24-25-5" label="Y">
+<t1>
+<article id="589"/>
+</t1>
+<t2>
+The pre-contract of a loan for consumption shall lose its effect if a ruling for the commencement of bankruptcy procedures is subsequently made against one of the parties.
+</t2>
+</pair>
+<pair id="H24-27-A" label="N">
+<t1>
+<article id="633"/>
+</t1>
+<t2>
+If the contract for work terminates during performance due to reasons not attributable to the  contractor, he/she may demand remuneration in proportion to the performance already completed.
+</t2>
+</pair>
+<pair id="H24-27-I" label="Y">
+<t1>
+<article id="641"/>
+</t1>
+<t2>
+The party ordering work may cancel the contract at any time whilst the contractor has not completed the work by compensating any damages.
+</t2>
+</pair>
+<pair id="H24-27-E" label="Y">
+<t1>
+<article id="634"/>
+</t1>
+<t2>
+Even if there is any defect in the subject matter of work performed, the party ordering the work may not demand that the contractor repair the defect, in the cases where the defect is not significant and excessive costs would be required for the repair.
+</t2>
+</pair>
+<pair id="H24-27-O" label="Y">
+<t1>
+<article id="634"/>
+<article id="637"/>
+</t1>
+<t2>
+Where delivery of the subject matter is required, the demand for repair must be made within one year from the time of the delivery of the subject matter of the work.
+</t2>
+</pair>
+<pair id="H24-28-1" label="Y">
+<t1>
+<article id="591"/>
+</t1>
+<t2>
+If the parties do not define the time of return, a borrower may terminate a money loan for consumption without charging any interest by returning the borrowed money at any time.
+</t2>
+</pair>
+<pair id="H24-28-2" label="Y">
+<t1>
+<article id="599"/>
+</t1>
+<t2>
+A loan for use shall terminate when a borrower dies.
+</t2>
+</pair>
+<pair id="H24-28-3" label="N">
+<t1>
+<article id="620"/>
+</t1>
+<t2>
+If a lease contract is canceled, the lease shall terminate retroactively as of the time of the conclusion of the contract.
+</t2>
+</pair>
+<pair id="H24-28-4" label="N">
+<t1>
+<article id="679"/>
+</t1>
+<t2>
+Even in cases where the duration of the partnership is specified, if a partner dies, an heir of the partner may withdraw from the partnership.
+</t2>
+</pair>
+<pair id="H24-28-5" label="Y">
+<t1>
+<article id="663"/>
+</t1>
+<t2>
+If the parties have not specified the timing of the return of the Thing deposited, the depositary who has undertaken a deposit gratuitously may return the same and terminate the contract at any time.
+</t2>
+</pair>
+<pair id="H24-29-1" label="N">
+<t1>
+<article id="712"/>
+</t1>
+<t2>
+A plaintiff shall prove that the opponent has responsibility capacity at the time of the tortious act to claim compensation of damages by a tort of a minor.
+</t2>
+</pair>
+<pair id="H24-29-3" label="N">
+<t1>
+<article id="711"/>
+</t1>
+<t2>
+Parents of a person who died by a tort may claim compensation for their own mental damages against a wrongdoer.
+</t2>
+</pair>
+<pair id="H24-30-1" label="N">
+<t1>
+<article id="452"/>
+</t1>
+<t2>
+In cases where an obligee A demands performance of a guarantee obligation which is not joint and several guarantee from a guarantor B in a lawsuit, A shall prove that he/she had demanded perfomance from a principal as revived cause of action.
+</t2>
+</pair>
+<pair id="H24-30-2" label="N">
+<t1>
+<article id="633"/>
+</t1>
+<t2>
+In the cases where delivery of the subject matter of a contract for work between A and B is required, if a contractor A intends to claim remuneration against a party ordering B, A shall prove that the subject matter of a contract has been delivered as revived cause of action.
+</t2>
+</pair>
+<pair id="H24-30-3" label="N">
+<t1>
+<article id="533"/>
+</t1>
+<t2>
+In cases where A claims purchase money of movables in a lawsuit, A shall prove that A tendered the delivery of the subject matter as revived cause of action.
+</t2>
+</pair>
+</dataset>

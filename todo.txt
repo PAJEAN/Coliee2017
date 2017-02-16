@@ -1,0 +1,40 @@
+
+TODO ERROR
+
+     ./score.py 5 -1
+     -> expected 670 rank: 1/5 contained into MIX_686_670_CLEANED
+
+    H20-27-A | found: 1/1
+    details:  670 rank: 2/5
+    ---------------------------------------------------
+    ---------------------------------------------------
+    QUERY              :  if the execution of business for a partnership is mandated the operating officers shall be selected from among the partners.
+    QUERY: INDEXED FORM: if the execution of business for a partnership be mandate the operating officer shall be select from among the partner .
+    ---------------------------------------------------
+    EXPECTED RESULT: 670
+    EXPECTED RESULT: INDEXED FORM: the management of partnership business shall be determine by the majority of the partner if more than one person be delegate to manage the business refer to in the precede paragraph under the partnership contract refer to in the following paragraph as `` operate officer '' the same shall be determine by majority notwithstanding the provision of the precede two paragraphs the ordinary business of a partnership may be perform by each partner or each operating officer individually provide however that this shall not apply if other partner or operate officer raise objection prior to the completion of the business
+    ---------------------------------------------------
+    DOC PROVIDED RESULT 1 ID : MIX_686_670_CLEANED score 40.5829491517
+    INDEXED FORM: the management of partnership business be determine by the majority of the partner if more than one person be delegate to manage the business refer to in the under the partnership contract refer to in the following as `` operate officer the same be determine by majority notwithstanding the of the two the ordinary business of a partnership may be perform by each partner or each operating officer individually provide however that this not if other partner or operate officer raise objection prior to the completion of the business the of to where there be more than one liquidator
+    ---------------------------------------------------
+    DOC PROVIDED RESULT 2 ID : PARAGRAPH_670_3 score 39.9268659565
+    INDEXED FORM: notwithstanding the provision of the precede two paragraphs the ordinary business of a partnership may be perform by each partner or each operating officer individually provide however that this shall not apply if other partner or operate officer raise objection prior to the completion of the business
+    ---------------------------------------------------
+    DOC PROVIDED RESULT 3 ID : PARAGRAPH_672_1 score 27.8948102482
+    INDEXED FORM: if one or more partner be delegate to manage partnership business under the partnership contract those partner may not resign without reasonable ground
+    ---------------------------------------------------
+
+
+
+Structuration bizarre ligne 18 et 19 du fichier civcode
+<section id="IV" title="Management of Absentee Property and Adjudication of Disappearance">
+<section title="Provision of Security by and Remuneration for Administrator">
+
+Chapter
+    Section 
+        Subsection (?) almost never specified
+            Division (?) almost never specified
+                (subdivision) (?) seems to always be specified if many article compose the Section 
+                    Article 
+                        Paragraph (?)
+                            item  (?)

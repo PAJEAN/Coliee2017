@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+<pair id="H25-2-I" label="N">
+<t1>
+<article id="95"/>
+</t1>
+<t2>
+In the case where a person under curatorship concluded contract for sale with a third party with consent of his/her curator, even when there is a mistake in any element of the juristic act in question and he/she was not grossly negligent, he/she may not assert such nullity by himself/herself.
+</t2>
+</pair>
+<pair id="H25-2-U" label="Y">
+<t1>
+<article id="95"/>
+</t1>
+<t2>
+In cases any third party commits any fraud inducing any person to make a manifestation of intention to the other party, and the other party did not know such fact, if such manifestation of intention meets the requirement for invalid by mistake, the person who made such manifestation of intention may assert nullity.
+</t2>
+</pair>
+<pair id="H25-2-E" label="N">
+<t1>
+<article id="13"/>
+<article id="120"/>
+</t1>
+<t2>
+In the case where a person under curatorship obtains the consent of his/her curator to conclude the contract of guarantee before concluding such contract, he/she may not cancel concluding such contract by self-determination.
+</t2>
+</pair>
+<pair id="H25-2-O" label="N">
+<t1>
+<article id="14"/>
+</t1>
+<t2>
+A person who intends to conclude the contract with a person under curatorship, in the capacity of interested person, may request the family court to rescind the order of the commencement of curatorship because of his/her having the sufficient the sufficient apacity to appreciate right or wrong.
+</t2>
+</pair>
+<pair id="H25-3-1" label="Y">
+<t1>
+<article id="20"/>
+</t1>
+<t2>
+With respect to an act which may be rescinded on the grounds of the limited capacity, the person who is the counterparty to a person with limited capacity may, after such person with limited capacity has become a person with capacity, issue to such person a notice which demands, by establishing a certain period which is one month or more, that he/she should give a definite answer on whether or not such person will ratify such act which may be rescinded within such period.
+In such case, if such person fails to send any definite answer within such period, he/she is deemed to have ratified such act.
+</t2>
+</pair>
+<pair id="H25-3-3" label="Y">
+<t1>
+<article id="508"/>
+</t1>
+<t2>
+In cases where any claim which was extinguished by a prescription had been suitable for set-off prior to such extinguishment, the relevant obligee may effect the set-off.
+</t2>
+</pair>
+<pair id="H25-3-4" label="N">
+<t1>
+<article id="122"/>
+<article id="120"/>
+</t1>
+<t2>
+Even if the statutory agent of a person who made the manifestation of intention ratifies the rescindable act on the grounds of fraud, such person may rescind such act when he/she does not know the ratification.
+</t2>
+</pair>
+<pair id="H25-3-5" label="Y">
+<t1>
+<article id="115"/>
+</t1>
+<t2>
+A contract concluded by a person without authority of agency may not be ratified by the principal, after the time when the counterparty rescindes the contract.
+</t2>
+</pair>
+<pair id="H25-4-U" label="N">
+<t1>
+<article id="109"/>
+<article id="110"/>
+<article id="112"/>
+</t1>
+<t2>
+In the case where a child who was not authorized by his/her father sells the real property of the father as an agent of the father, if the other party believe that the child was authorized and has reasonable grounds for believing that the agent has the authority, apparent authority shall be effected.
+</t2>
+</pair>
+<pair id="H25-6-E" label="N">
+<t1>
+<article id="174-2"/>
+<article id="724"/>
+</t1>
+<t2>
+Even if a right to demand compensation for damages due to torts is established in a settlement in a court proceeding, and due date is fixed one year after the settlement, such right shall be extinguished by the operation of prescription if it is not exercised by the victim within ten years from the time when such settlement had been mentioned in the record of settlement.
+</t2>
+</pair>
+<pair id="H25-8-1" label="Y">
+<t1>
+<article id="192"/>
+</t1>
+<t2>
+In the case where a person concluded the sales contract with a minor and bought his/her movable, after that such contract was rescinded on the grounds of the limited capacity to act, even if the person is in good faith and faultless with respect to the fact that the seller is a minor, the person may not acquire the ownership of such movavle on the grounds of the immediate acquisition.
+</t2>
+</pair>
+<pair id="H25-8-3" label="N">
+<t1>
+<article id="246"/>
+<article id="91"/>
+</t1>
+<t2>
+If a person contributes work to the movables of others, ownership of the Thing so worked up shall vest in the person who is determined pursuant to the provisions in Civil Code. 
+Even if the owner and the processor make other agreement which is different from the provisions in Civil Code, such agreement shall not be take effect.
+</t2>
+</pair>
+<pair id="H25-8-4" label="Y">
+<t1>
+<article id="284"/>
+</t1>
+<t2>
+If one of the co-owners of land acquires a servitude by prescription, the other co-owners shall also acquire the same.
+</t2>
+</pair>
+<pair id="H25-8-5" label="N">
+<t1>
+<article id="243"/>
+<article id="244"/>
+</t1>
+<t2>
+If two or more movables with different owners are so joined to each other that they can no longer be separated without damaging the same, the owner of secondary movable shall co-own the composite Thing in proportion to the respective price current at the time of the accession.
+</t2>
+</pair>
+<pair id="H25-11-A" label="N">
+<t1>
+<article id="369"/>
+</t1>
+<t2>
+Superficies may not be the subject matter of a mortgage.
+</t2>
+</pair>
+<pair id="H25-11-U" label="N">
+<t1>
+<article id="280"/>
+</t1>
+<t2>
+A servitude holder must pay for benefit to the owner of the servient land.
+</t2>
+</pair>
+<pair id="H25-11-E" label="N">
+<t1>
+<article id="388"/>
+</t1>
+<t2>
+A person who acquires Statutory Superficies need not to pay the rent to the owner of the land.
+</t2>
+</pair>
+<pair id="H25-11-O" label="Y">
+<t1>
+<article id="266"/>
+<article id="276"/>
+</t1>
+<t2>
+If a superficiary fails to pay the rent for two or more consecutive years, the landowner may demand the extinction of the superficies.
+</t2>
+</pair>
+<pair id="H25-13-1" label="Y">
+<t1>
+<article id="296"/>
+</t1>
+<t2>
+A holder of a right of retention may exercise his/her rights against the whole of the Thing retained until his/her claim is satisfied in its entirety.
+</t2>
+</pair>
+<pair id="H25-13-2" label="Y">
+<t1>
+<article id="335"/>
+</t1>
+<t2>
+Holders of general statutory liens cannot be paid out of immovable properties unless they are first paid out of property other than immovable properties and a claim that is not satisfied remains, unless cases where the proceeds of immovable properties are distributed prior to the proceeds of assets other than immovable properties.
+</t2>
+</pair>
+<pair id="H25-13-3" label="N">
+<t1>
+<article id="366"/>
+</t1>
+<t2>
+If monetary claim is the subject matter of a pledged claim, the pledgee may collect the entire amount of the such monetary claim notwithstanding the amount of the pledgee's own claim.
+</t2>
+</pair>
+<pair id="H25-13-4" label="Y">
+<t1>
+<article id="394"/>
+</t1>
+<t2>
+In the case where the proceeds of other assets are to be distributed prior to the proceeds of the auction as the execution of mortgage, each other obligee may demand that the amount to be distributed to the mortgagee be deposited.
+</t2>
+</pair>
+<pair id="H25-13-5" label="Y">
+<t1>
+<article id="398-22"/>
+</t1>
+<t2>
+If the amount of the obligations actually in existence after the principal is fixed exceeds the maximum amount of the Revolving Mortgage, a person who created his/her Revolving Mortgage to secure obligations of others may request the extinction of that Revolving Mortgage by tendering or depositing an amount equivalent to that maximum amount.
+</t2>
+</pair>
+<pair id="H25-14-A" label="N">
+<t1>
+<article id="339"/>
+<article id="341"/>
+</t1>
+<t2>
+A holder of statutory lien for the sales of the immovable property who has registration of such statutory lien may exercise statutory lien prior to mortgages, regardless of the chronological order of the registraiton.
+</t2>
+</pair>
+<pair id="H25-14-I" label="Y">
+<t1>
+<article id="333"/>
+</t1>
+<t2>
+Statutory liens for sale of movables may not be exercised with respect to the movable that are the subject matter of the same after the obligors have delivered those movables to third-party acquirers.
+</t2>
+</pair>
+<pair id="H25-14-U" label="Y">
+<t1>
+<article id="308"/>
+</t1>
+<t2>
+Statutory liens for employer-employee relationships shall exist with respect to salaries and other claims that arose under the employer-employee relationship between the obligor and his/her employee.
+</t2>
+</pair>
+<pair id="H25-14-E" label="N">
+<t1>
+<article id="336"/>
+</t1>
+<t2>
+A holder of general statutory liens shall have the rights to have his/her own claim satisfied prior to other obligees who has the registration of statutory liens for sales of immovable properties even if the liens are not registered with respect to the relevant immovable property.
+</t2>
+</pair>
+<pair id="H25-15-4" label="N">
+<t1>
+<article id="499"/>
+<article id="500"/>
+</t1>
+<t2>
+In the case where the first mortgage and the second mortgage were created on the same real property of the obligor, if the obligor pay the obligation which was secured by the first mortgage, the obligor shall obtain the first mortgage by subrogation by performance.
+</t2>
+</pair>
+<pair id="H25-16-3" label="Y">
+<t1>
+<article id="398-3"/>
+</t1>
+<t2>
+A revolving mortgagee may exercise his/her Revolving Mortgage up to the maximum amount with respect to all fixed payments of principal as well as periodical payments including interest and compensation for damages resulting from failure to perform obligations.
+</t2>
+</pair>
+<pair id="H25-16-4" label="N">
+<t1>
+<article id="370"/>
+</t1>
+<t2>
+A mortgage shall extend to the buildings on the mortgaged land as long as the mortgage provides otherwise.
+</t2>
+</pair>
+<pair id="H25-17-I" label="N">
+<t1>
+<article id="534"/>
+</t1>
+<t2>
+If the building has been lost due to reasons attributable to the buyer, the seller may not demand  payment of purchase money from the buyer.
+</t2>
+</pair>
+<pair id="H25-17-U" label="Y">
+<t1>
+<article id="543"/>
+<article id="545"/>
+</t1>
+<t2>
+If the building has been lost due to reasons attributable to the seller, the buyer may cancel the contract and may demand the return of the purchase money when he/she has paid it.
+</t2>
+</pair>
+<pair id="H25-17-E" label="Y">
+<t1>
+<article id="534"/>
+</t1>
+<t2>
+If the building has been lost due to reasons attributable to buyer, the buyer may not demand the return of the purchase money even when he/she has paid it.
+</t2>
+</pair>
+<pair id="H25-17-O" label="N">
+<t1>
+<article id="534"/>
+</t1>
+<t2>
+Because contracts for sale shall become void retroactively as of the time of the contract if the building has been lost due to force majeure, the buyer may demand the return of the purchase money for it when he/she has paid it.
+</t2>
+</pair>
+<pair id="H25-19-A" label="Y">
+<t1>
+<article id="467"/>
+</t1>
+<t2>
+In the case where A gave a notice which was not made using an instrument bearing a fixed date to B with respect to the first assignment, and A did not give a notice with respect to the second assignment, if B perform the obligation to C, the claim shall be extinguished.
+</t2>
+</pair>
+<pair id="H25-19-I" label="N">
+<t1>
+<article id="467"/>
+</t1>
+<t2>
+In the case where A gave a notice thereof to B without using an instrument bearing a fixed date with respect to both the first assignment and second assignment, and such notices arrived B simultaneously, even if B perform the obligation to C after such notices, the claim shall not be extinguished.
+</t2>
+</pair>
+<pair id="H25-21-U" label="Y">
+<t1>
+<article id="500"/>
+<article id="501"/>
+</t1>
+<t2>
+In the case where a third person mortgagor owns both of Land X and Land Y which a joint mortgage is taken out on, if the obligation ceased to exist by distributing the value of Land X ahead, the third person mortgagor may exercise the mortgage took out on Land Y to within the right to indemnification to the obligator.
+</t2>
+</pair>
+<pair id="H25-21-E" label="N">
+<t1>
+<article id="501"/>
+</t1>
+<t2>
+In the case where there is a guarantor on an obligation and a mortgage is taken out on land X which a third party mortgagor owns for the same obligation, if the guarantor performed and extinguished the guarantee obligation, he/she exercise the mortgage for the full amount of the right to reimbursement to an obligor.
+</t2>
+</pair>
+<pair id="H25-21-O" label="N">
+<t1>
+<article id="504"/>
+</t1>
+<t2>
+In the case where there is a guarantor on an obligation and a mortgage is taken out on land X which an obligor owns for the same obligation, if the guarantor performed the guarantee obligation after an obligee wavied the mortgage, the guarantee may exercise the mortgage as it is not wavied.
+</t2>
+</pair>
+<pair id="H25-22-1" label="N">
+<t1>
+<article id="417"/>
+</t1>
+<t2>
+Regardless of whether there is other agreement, the amount of the damages of non-performance shall be determined with reference to monetary value.
+</t2>
+</pair>
+<pair id="H25-22-2" label="N">
+<t1>
+<article id="419"/>
+</t1>
+<t2>
+The obligor shall take on responsibilities which arise from default of monetary debt unless he/she may raise the defense of force majeure.
+</t2>
+</pair>
+<pair id="H25-22-3" label="N">
+<t1>
+<article id="420"/>
+</t1>
+<t2>
+In the case where the parties agree on the amount of the liquidated damages with respect to the failure to perform the obligation, the court only may increase the amount thereof but may not decrease the amount thereof.
+</t2>
+</pair>
+<pair id="H25-22-4" label="Y">
+<t1>
+<article id="420"/>
+</t1>
+<t2>
+Even if the parties agree on the amount of the liquidated damages with respect to the failure to perform the obligation, the agreement shall not preclude the exercise of the cancellation right.
+</t2>
+</pair>
+<pair id="H25-23-I" label="Y">
+<t1>
+<article id="496"/>
+</t1>
+<t2>
+In the case where a mortgage extinguished because the object of performance was deposited, a person who deposited may not recover the deposited property even before an obligee accepts it.
+</t2>
+</pair>
+<pair id="H25-23-U" label="N">
+<t1>
+<article id="506"/>
+</t1>
+<t2>
+A condition may be added to manifestation of set-offs.
+</t2>
+</pair>
+<pair id="H25-23-O" label="N">
+<t1>
+<article id="519"/>
+</t1>
+<t2>
+An obligee may not release an obligation without an obligor's consent.
+</t2>
+</pair>
+<pair id="H25-24-A" label="Y">
+<t1>
+<article id="562"/>
+</t1>
+<t2>
+In cases where the seller, at the moment of the contract, does not know that the land the seller has sold do not belong to him/her, even if the seller cannot acquire the land and transfer the same to the buyer, the seller may cancel the contract.
+</t2>
+</pair>
+<pair id="H25-24-I" label="Y">
+<t1>
+<article id="565"/>
+<article id="563"/>
+</t1>
+<t2>
+A buyer may demand a reduction of the purchase money in proportion to the value of the part in shortage in cases where part of a real estate  was already lost at the time of the contract, if the buyer did not know the fact of the loss.
+</t2>
+</pair>
+<pair id="H25-24-E" label="Y">
+<t1>
+<article id="566"/>
+</t1>
+<t2>
+In cases where an easement that was referred to as being in existence for the benefit of a land that is the subject matter of a sale, does not exist, the cancellation of the contract must be made within one year from the time when the buyer comes to know the facts.
+</t2>
+</pair>
+<pair id="H25-24-O" label="N">
+<t1>
+<article id="566"/>
+<article id="568"/>
+</t1>
+<t2>
+In the case where the object of compulsory auction is retained by the right of retention, the successful bidder may not cancel the contract, even if he/she did not know the fact and cannot achieve the purpose of the purchase because of the right of retention.
+</t2>
+</pair>
+<pair id="H25-26-1" label="N">
+<t1>
+<article id="651"/>
+</t1>
+<t2>
+A mandate shall not be canceled by a mandatary unless an anavoidable reason to do so.
+</t2>
+</pair>
+<pair id="H25-26-2" label="Y">
+<t1>
+<article id="645"/>
+</t1>
+<t2>
+A mandatary must, if so requested by the mandator, report the current status of the administration of the mandated business at any time.
+</t2>
+</pair>
+<pair id="H25-26-3" label="Y">
+<t1>
+<article id="655"/>
+<article id="653"/>
+</t1>
+<t2>
+Even if a mandator died, an heir of the mandator may not assert termination of mandate by death of the mandator against a mandatary, when the mandatary was not notified of or did not know of the same.
+</t2>
+</pair>
+<pair id="H25-26-4" label="Y">
+<t1>
+<article id="648"/>
+</t1>
+<t2>
+In the case where there is a special agreement that the mandatary may claim remuneration from the mandator, if the mandate terminates during performance due to reasons not attributable to the mandatary, the mandatary may demand remuneration in proportion to the performance already completed.
+</t2>
+</pair>
+<pair id="H25-26-5" label="Y">
+<t1>
+<article id="650"/>
+</t1>
+<t2>
+If the mandatary has incurred any obligation found to be necessary for the administration of the mandated business, the mandatary may demand that the mandator perform the obligation on the mandatary's behalf.
+</t2>
+</pair>
+<pair id="H25-27-1" label="N">
+<t1>
+<article id="663"/>
+</t1>
+<t2>
+Even if the due date of the return is specified in an onerous deposit contract, the depositary may return the deposited goods prior to the due date by refunding a storage fee.
+</t2>
+</pair>
+<pair id="H25-27-2" label="Y">
+<t1>
+<article id="660"/>
+</t1>
+<t2>
+If a third party asserting rights with respect to the Thing deposited has brought a lawsuit against the depositary, the depositary must notify the depositor of that fact without delay.
+</t2>
+</pair>
+<pair id="H25-27-4" label="Y">
+<t1>
+<article id="661"/>
+</t1>
+<t2>
+The depositor must compensate the depositary for damages that occur due to the defects in the Thing deposited; provided, however, that this shall not apply if the depositor did not, without negligence, know of such defect, or the depositary knew of the same.
+</t2>
+</pair>
+<pair id="H25-28-A" label="Y">
+<t1>
+<article id="676"/>
+</t1>
+<t2>
+A partner may not seek the division of the partnership property before the same is liquidated.
+</t2>
+</pair>
+<pair id="H25-29-A" label="Y">
+<t1>
+<article id="624"/>
+</t1>
+<t2>
+In a contract of employment, remuneration specified with reference to a period may be claimed on the expiration of that period.
+</t2>
+</pair>
+<pair id="H25-29-I" label="N">
+<t1>
+<article id="632"/>
+</t1>
+<t2>
+The contractor may not claim his/her remuneration without the specified consent of remuneration amount.
+</t2>
+</pair>
+<pair id="H25-29-U" label="Y">
+<t1>
+<article id="649"/>
+</t1>
+<t2>
+If costs will be incurred in administering the mandated business, the mandator must, at the request of the mandatary, pay an advance for those costs.
+</t2>
+</pair>
+<pair id="H25-29-E" label="N">
+<t1>
+<article id="656"/>
+<article id="648"/>
+</t1>
+<t2>
+A mandatary of a quasi-mandate contract may not claim remuneration from a mandator before performance, even with special agreements that a mandatary may claim remuneration before he/she administers the mandated business.
+</t2>
+</pair>
+<pair id="H25-29-O" label="Y">
+<t1>
+<article id="659"/>
+</t1>
+<t2>
+When a merchant receives a deposit within the scope of his/her business, he/she shall have the due care of a prudent manager for the deposited goods even when he/she will not receive any remuneration.
+</t2>
+</pair>
+<pair id="H25-30-3" label="N">
+<t1>
+<article id="715"/>
+</t1>
+<t2>
+In the case where B who is employed by A inflicted damages on a third party C with respect to the execution of that business, if A performed the obligation to compensate the damages to C, A's right to reimbursement to B shall not accrue.
+</t2>
+</pair>
+<pair id="H25-30-4" label="Y">
+<t1>
+<article id="716"/>
+</t1>
+<t2>
+In the case where a contractor B who concluded a contract for work with A inflicted damages on a third party C with respect to the execution of his/her work, if there is A's negligence in order or instructions, A is liable for the damages as the party ordering work.
+</t2>
+</pair>
+</dataset>
