@@ -158,8 +158,9 @@ class XML_parser_question_answering(XML_parser):
                 answer = pair.find("t1")
                 question = pair.find("t2")
                 self.answers[id_pair] = []
-                for answer in answer.findall("article"):
-                    self.answers[id_pair].append(answer.get("id"))
+                if answer is not None:
+                    for answer in answer.findall("article"):
+                        self.answers[id_pair].append(answer.get("id"))
                 self.questions[id_pair] = self.queries(question.text)
 
 

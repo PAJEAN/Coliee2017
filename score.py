@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
 # from sklearn import svm
-
+# Syntax: python score.py [repertoire des fichiers xml de requetes][True/False sont -ils annotés?]
 
 import boite_a_outils as bao
 import os
@@ -91,6 +91,13 @@ def loadBestKTerrierResults(path_terrier_results, k_limit):
     print "Terrier results loaded"
     return terrier_results_bestk
 
+def printPredictions(predictedResults, resultsFile, teamName):
+    '''predictedResults is a queryId:[articleId] dictionnary'''
+    f = open(resultsFile, 'w')
+    for qId in predictedResults:
+        for aId in predictedResults[qId]:
+            f.write(qId+' '+aId+' '+teamName+'\n')
+    f.close()
 
 '''
 #############################
@@ -98,7 +105,7 @@ PARAMETERS
 #############################
 '''
 # path to terrier results
-path_terrier_results = "tmp/terrier_results"
+path_terrier_results = "tmp/terrier_results/results"
 # path to the index storing expected results for each query
 index_expected_query_results = "tmp/id_query-num_articles.tsv"
 # path to the index storing the articles associated to each doc
@@ -233,10 +240,14 @@ for query_id in terrier_results_bestk:
     else:
         print "excluding result " + doc_id + " because of TERRIER THRESHOLD"
 
-    '''
-    if len(articles_first_result_doc) != 1:
-        quit()
-    '''
+## enregistre les résultats dans un fichier resultats au format de COLIEE
+printPredictions(terrier_results_final_articles, 'tmp/Testdata.task1.KID17', 'KID17')
+
+
+'''
+if len(articles_first_result_doc) != 1:
+    quit()
+'''
 
 # print k, terrier_results_bestk[k], terrier_results_final_articles[k]
 
@@ -327,4 +338,5 @@ print "NB_RESULTS_FINAL", NB_RESULTS_FINAL
 print "THRESHOLD_TERRIER_SCORE ", THRESHOLD_TERRIER_SCORE
 print "THRESHOLD_DELTA_TERRIER_SCORE ", THRESHOLD_DELTA_TERRIER_SCORE
 res_eval = bao.Evaluation(expected_results, terrier_results_final_articles)
+len(expected_results)
 res_eval.scores()

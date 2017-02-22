@@ -1,6 +1,6 @@
 #!/bin/python
 # -*- coding:utf-8 -*-
-import glob
+import glob,sys
 import boite_a_outils as bao
 
 import kb_generator as kbg
@@ -25,12 +25,22 @@ out3 = open("tmp/requetes_lem.tsv", "w")
 out4 = open("tmp/requetes.tsv", "w")
 ###
 
+# retrieve command line parameters
+# usage python script_name.py queryXmlFilePath
+queriesWithExpectedAnswers = True
+if len(sys.argv) > 1:
+    path_folder = sys.argv[1]
+if len(sys.argv) > 2:
+    queriesWithExpectedAnswers = bool(sys.argv[1])
+
 # Extraire les questions/réponses.
 links = glob.glob(path_folder+"/*.xml")
+#print(type(links))
+
 compteur = 0
 for link in links:
 	print "Lien: "+link
-
+    #if queriesWithExpectedAnswers:
 	xml_parser = bao.XML_parser_question_answering(link)
 	xml_parser.extractions()
 	

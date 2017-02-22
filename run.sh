@@ -1,4 +1,4 @@
-#!/bin/bash
+#/bin/bash
 
 
 python kb_generator.py > tmp/kb_generator.tmp
