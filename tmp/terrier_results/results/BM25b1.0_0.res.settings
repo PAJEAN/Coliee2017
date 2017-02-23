@@ -1,5 +1,5 @@
 # Settings of Terrier (TRECQuerying) generated for run /home/tagny/git/Coliee2017-dev/terrier-core-4.2/var/results/BM25b1.0_0.res
-#Wed Feb 22 17:25:09 CET 2017
+#Thu Feb 23 16:16:12 CET 2017
 trec.topics=Data/requetes.xml
 trec.runtag=BM25b1.0
 tokeniser=org.terrier.indexing.tokenisation.EnglishTokeniser
@@ -67,7 +67,7 @@ querying.preprocesses.order=
 trec.manager=Manager
 querying.postprocesses.order=QueryExpansion
 # topicfile: Data/requetes.xml
-# run started at: 1487780696198
-# run finished at 1487780709020
+# run started at: 1487862967488
+# run finished at 1487862972481
 # c=1.0 c_set=true
 # model=BM25

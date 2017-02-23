@@ -709,6 +709,9 @@ if __name__ == "__main__":
 
     indexed_doc = {}
     indexed_doc_articles = {}
+    indexed_article_part = {} # key id_article : value id part
+
+
     orderingArticleIds = []
 
     links_mutatis_mutantis = {}
@@ -733,6 +736,9 @@ if __name__ == "__main__":
 
                             for article in aG.articles:
                                 print "\t\t\t\t\t\tArticle", article.id
+
+                                indexed_article_part[article.id] = part.id
+
                                 orderingArticleIds.append(article.id)
 
                                 article_text = "";
@@ -891,3 +897,82 @@ if __name__ == "__main__":
     index_file.close()
     index_file_tsv.close()
     docArticle_file.close()
+
+
+    # generating index for all a chapter:
+
+    chapters_str = {}
+    parts_str = {}
+    sections_str = {}
+
+    for part in parts:
+
+        id_part = part.id
+        part_str = part.title+"\n"
+
+        for chapter in part.chapters:
+
+            id_chapter = str(id_part)+"_"+str(chapter.id)
+
+            chapter_str = ""
+            if chapter.title != "FICTIVE":
+                chapter_str += chapter.title+"\n"
+
+            for section in chapter.sections:
+
+                id_section = id_chapter+"_"+str(section.id)
+                section_str = ""
+
+                if section.title != "FICTIVE":
+                    section_str = section.title + "\n"
+
+                for subsection in section.subsections:
+
+
+                    if subsection.title != "FICTIVE":
+                        section_str += subsection.title + "\n"
+
+                    for division in subsection.divisions:
+
+
+                        if division.title != "FICTIVE":
+                            section_str += division.title + "\n"
+
+                        for articleGroup in division.articleGroups:
+
+                            if articleGroup.title != "FICTIVE":
+                                section_str += articleGroup.title + "\n"
+
+                            for article in articleGroup.articles:
+
+                                for paragraph in article.paragraphs:
+                                    section_str += paragraph.text+"\n"
+
+                sections_str[id_section] = section_str.strip()
+                chapter_str += section_str+"\n"
+
+            chapters_str[id_chapter] = chapter_str.strip()
+            part_str += chapter_str+"\n"
+
+        parts_str[id_part] = part_str.strip()
+
+
+    with open("tmp/doc_parts.xml", "w") as fparts:
+
+        for p in parts_str:
+            fparts.write("<DOC>\n")
+            fparts.write("<DOCNO>" + p + "</DOCNO>\n")
+            fparts.write(parts_str[p] + "\n")
+            fparts.write("</DOC>\n")
+
+
+    # flush map id article / id part
+
+    articleToPart_path = "tmp/articleToPart.tsv"
+    with open(articleToPart_path, "w") as f:
+
+        for p in indexed_article_part:
+            f.write(p+"\t" + indexed_article_part[p] + "\n")
+
+
+        
