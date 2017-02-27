@@ -438,7 +438,8 @@ if __name__ == "__main__":
     print "GENERATE_ARTICLE_SPLITS: ",GENERATE_ARTICLE_SPLITS
 
 
-    civil_code = "./Data/civil_english_modified.txt"
+    #civil_code = "./Data/civil_english_modified.txt"
+    civil_code = "./Data/updated_civil_english_modified.txt"
 
     print "Loading kb from ", civil_code
 

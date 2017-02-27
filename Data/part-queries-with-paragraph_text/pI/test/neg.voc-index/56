@@ -1,0 +1,16 @@
+employer-employee relationship between	3	1	1	84-1
+employer-employee relationships	2	2	2	47-1:84-1
+employee	1	3	3	25-1:47-1:84-1
+employer-employee relationship	2	1	1	84-1
+employer-employee	1	3	2	47-1:84-2
+employer is	2	1	1	25-1
+employed	1	1	1	36-1
+employed by a	3	1	1	36-1
+employer is released	3	1	1	25-1
+employed by	2	1	1	36-1
+employer-employee relationships secure	3	1	1	47-1
+employer made	2	1	1	25-1
+employer	1	2	1	25-2
+employer-employee relationships shall	3	1	1	84-1
+employer made proper	3	1	1	25-1
+employee retires	2	1	1	47-1

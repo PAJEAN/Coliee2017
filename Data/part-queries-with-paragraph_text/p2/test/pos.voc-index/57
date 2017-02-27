@@ -1,0 +1,24 @@
+has been sold	3	1	1	18-1
+has ownership	2	1	1	0-1
+has a book	3	1	1	15-1
+have the owner	3	1	1	5-1
+have the person	3	1	1	27-1
+had	1	1	1	29-1
+has acquired fruits	3	1	1	27-1
+have the	2	2	2	5-1:27-1
+has priority	2	1	1	4-1
+have construction suspended	3	1	1	23-1
+have begun since	3	1	1	4-1
+had borrowed	2	1	1	29-1
+had borrowed and	3	1	1	29-1
+has priority over	3	1	1	4-1
+have begun	2	1	1	4-1
+has been	2	1	1	18-1
+has the	2	1	1	0-1
+has the agreement	3	1	1	0-1
+have	1	4	4	4-1:5-1:23-1:27-1
+have construction	2	1	1	23-1
+has	1	6	5	0-2:4-1:15-1:18-1:27-1
+has acquired	2	1	1	27-1
+has a	2	1	1	15-1
+has ownership of	3	1	1	0-1

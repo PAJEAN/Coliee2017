@@ -158,7 +158,7 @@ with open(docArticle_path) as doc2ArticleFile:
         if len(data) == 2:
             article_ids = map(str.strip, data[1].split(","))
             docToArticle[data[0]] = article_ids
-### Part intead of article
+### Part instead of article
 # Loading correspondences between indexed articles and parts
 parts = set([])
 with open(articleToPartPath) as articleToPartFile:

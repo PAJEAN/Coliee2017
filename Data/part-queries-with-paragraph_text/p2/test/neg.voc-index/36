@@ -1,0 +1,10 @@
+both the timing	3	1	1	48-1
+both the	2	1	1	48-1
+borrowed things ealier	3	1	1	74-1
+borrower may return	3	1	1	74-1
+borrower may assert	3	1	1	11-1
+borrowed things	2	1	1	74-1
+borrower may	2	2	2	11-1:74-1
+borrower	1	2	2	11-1:74-1
+borrowed	1	1	1	74-1
+both	1	1	1	48-1
